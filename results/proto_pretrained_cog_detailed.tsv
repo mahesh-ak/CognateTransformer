@@ -1,0 +1,301 @@
+test_prop	valid	lng	ED	NED	B3_F1
+0.1	1	loss	3.2588422298431396
+0.1	1	ProtoBurmish	0.6667	0.1802	0.8747
+0.1	1	ProtoPurus	0.25	0.0483	0.9391
+0.1	1	ProtoLalo	0.736	0.2316	0.7066
+0.1	1	ProtoBai	0.6087	0.1543	0.7919
+0.1	1	ProtoKaren	0.5833	0.1333	0.8588
+0.1	1	Latin	1.359	0.1658	0.7657
+0.1	1	runtime	0.4889
+0.1	1	samples_per_second	1368.442
+0.1	1	steps_per_second	8.182
+0.1	2	loss	3.1941730976104736
+0.1	2	ProtoBurmish	0.8148	0.1975	0.8309
+0.1	2	ProtoPurus	0.4	0.0762	0.9078
+0.1	2	ProtoLalo	0.712	0.2253	0.7029
+0.1	2	ProtoBai	1.0652	0.2453	0.7045
+0.1	2	ProtoKaren	0.4722	0.1329	0.8638
+0.1	2	Latin	1.2145	0.1507	0.7846
+0.1	2	runtime	0.4865
+0.1	2	samples_per_second	1375.157
+0.1	2	steps_per_second	8.222
+0.1	3	loss	3.5517570972442627
+0.1	3	ProtoBurmish	1.1111	0.2531	0.7222
+0.1	3	ProtoPurus	0.7	0.1383	0.8349
+0.1	3	ProtoLalo	0.688	0.21	0.7182
+0.1	3	ProtoBai	0.8261	0.2181	0.7371
+0.1	3	ProtoKaren	0.4722	0.1218	0.8828
+0.1	3	Latin	1.2482	0.1487	0.7796
+0.1	3	runtime	0.4762
+0.1	3	samples_per_second	1404.929
+0.1	3	steps_per_second	8.4
+0.1	4	loss	3.2176098823547363
+0.1	4	ProtoBurmish	0.8148	0.1932	0.844
+0.1	4	ProtoPurus	0.5	0.0873	0.8933
+0.1	4	ProtoLalo	0.608	0.1853	0.7578
+0.1	4	ProtoBai	0.9348	0.2341	0.7262
+0.1	4	ProtoKaren	0.6944	0.1843	0.8157
+0.1	4	Latin	1.3157	0.1607	0.7715
+0.1	4	runtime	0.4705
+0.1	4	samples_per_second	1421.911
+0.1	4	steps_per_second	8.502
+0.1	5	loss	3.521718978881836
+0.1	5	ProtoBurmish	0.3704	0.0963	0.9235
+0.1	5	ProtoPurus	0.45	0.0862	0.8754
+0.1	5	ProtoLalo	0.656	0.206	0.7176
+0.1	5	ProtoBai	0.8261	0.204	0.7689
+0.1	5	ProtoKaren	0.4167	0.1014	0.9092
+0.1	5	Latin	1.388	0.1679	0.7609
+0.1	5	runtime	0.4847
+0.1	5	samples_per_second	1380.271
+0.1	5	steps_per_second	8.253
+0.1	6	loss	3.188283920288086
+0.1	6	ProtoBurmish	0.963	0.2333	0.7916
+0.1	6	ProtoPurus	0.25	0.05	0.9285
+0.1	6	ProtoLalo	0.744	0.2252	0.6904
+0.1	6	ProtoBai	0.8478	0.2105	0.748
+0.1	6	ProtoKaren	0.4167	0.1	0.8553
+0.1	6	Latin	1.3542	0.163	0.7626
+0.1	6	runtime	0.4911
+0.1	6	samples_per_second	1362.348
+0.1	6	steps_per_second	8.146
+0.1	7	loss	3.3742220401763916
+0.1	7	ProtoBurmish	0.5926	0.1469	0.8627
+0.1	7	ProtoPurus	0.5	0.0846	0.8917
+0.1	7	ProtoLalo	0.64	0.1927	0.7425
+0.1	7	ProtoBai	0.913	0.2272	0.72
+0.1	7	ProtoKaren	0.7778	0.1921	0.8203
+0.1	7	Latin	1.2048	0.1443	0.7889
+0.1	7	runtime	0.4757
+0.1	7	samples_per_second	1406.478
+0.1	7	steps_per_second	8.409
+0.1	8	loss	3.225107431411743
+0.1	8	ProtoBurmish	0.5185	0.1235	0.8427
+0.1	8	ProtoPurus	0.65	0.1242	0.8583
+0.1	8	ProtoLalo	0.72	0.2156	0.7006
+0.1	8	ProtoBai	0.8913	0.2243	0.7302
+0.1	8	ProtoKaren	0.4722	0.1088	0.873
+0.1	8	Latin	1.2867	0.157	0.7717
+0.1	8	runtime	0.4972
+0.1	8	samples_per_second	1345.613
+0.1	8	steps_per_second	8.046
+0.1	9	loss	3.1677534580230713
+0.1	9	ProtoBurmish	0.3704	0.0883	0.9124
+0.1	9	ProtoPurus	0.5	0.0926	0.8878
+0.1	9	ProtoLalo	0.688	0.1989	0.7339
+0.1	9	ProtoBai	0.7174	0.1793	0.771
+0.1	9	ProtoKaren	0.3333	0.0944	0.9123
+0.1	9	Latin	1.0843	0.1342	0.8072
+0.1	9	runtime	0.4823
+0.1	9	samples_per_second	1387.013
+0.1	9	steps_per_second	8.293
+0.1	10	loss	3.2317864894866943
+0.1	10	ProtoBurmish	0.7407	0.184	0.821
+0.1	10	ProtoPurus	0.3	0.0542	0.9246
+0.1	10	ProtoLalo	0.616	0.1865	0.7501
+0.1	10	ProtoBai	0.8261	0.196	0.7669
+0.1	10	ProtoKaren	0.6111	0.1435	0.8751
+0.1	10	Latin	1.3229	0.1576	0.7727
+0.1	10	runtime	0.4985
+0.1	10	samples_per_second	1341.931
+0.1	10	steps_per_second	8.024
+0.5	1	loss	3.193725109100342
+0.5	1	ProtoBurmish	0.8134	0.2102	0.7385
+0.5	1	ProtoPurus	0.5051	0.0955	0.8503
+0.5	1	ProtoLalo	0.6384	0.1961	0.6959
+0.5	1	ProtoBai	0.7118	0.1821	0.7444
+0.5	1	ProtoKaren	0.6209	0.1564	0.7943
+0.5	1	Latin	1.3343	0.1623	0.7646
+0.5	1	runtime	2.4784
+0.5	1	samples_per_second	1348.434
+0.5	1	steps_per_second	7.263
+0.5	2	loss	3.2608938217163086
+0.5	2	ProtoBurmish	0.9776	0.2432	0.6956
+0.5	2	ProtoPurus	0.5152	0.0935	0.8466
+0.5	2	ProtoLalo	0.7312	0.2238	0.6649
+0.5	2	ProtoBai	0.8515	0.21	0.7061
+0.5	2	ProtoKaren	0.6209	0.15	0.792
+0.5	2	Latin	1.4467	0.1749	0.7487
+0.5	2	runtime	2.359
+0.5	2	samples_per_second	1416.707
+0.5	2	steps_per_second	7.63
+0.5	3	loss	3.3262457847595215
+0.5	3	ProtoBurmish	0.9254	0.2367	0.7174
+0.5	3	ProtoPurus	0.3939	0.076	0.8811
+0.5	3	ProtoLalo	0.6848	0.2067	0.6827
+0.5	3	ProtoBai	0.8384	0.2108	0.7036
+0.5	3	ProtoKaren	0.6484	0.1647	0.8042
+0.5	3	Latin	1.4554	0.1749	0.7472
+0.5	3	runtime	2.377
+0.5	3	samples_per_second	1405.962
+0.5	3	steps_per_second	7.573
+0.5	4	loss	3.229081392288208
+0.5	4	ProtoBurmish	0.8582	0.2085	0.733
+0.5	4	ProtoPurus	0.4545	0.0894	0.8662
+0.5	4	ProtoLalo	0.7136	0.2141	0.6763
+0.5	4	ProtoBai	0.8559	0.2147	0.706
+0.5	4	ProtoKaren	0.6264	0.1568	0.7849
+0.5	4	Latin	1.3632	0.1658	0.7606
+0.5	4	runtime	2.3552
+0.5	4	samples_per_second	1419.003
+0.5	4	steps_per_second	7.643
+0.5	5	loss	3.368147611618042
+0.5	5	ProtoBurmish	0.9104	0.2275	0.7114
+0.5	5	ProtoPurus	0.4646	0.0874	0.8591
+0.5	5	ProtoLalo	0.7296	0.2198	0.668
+0.5	5	ProtoBai	0.8559	0.2142	0.6983
+0.5	5	ProtoKaren	0.6703	0.1725	0.7737
+0.5	5	Latin	1.425	0.1747	0.7475
+0.5	5	runtime	2.3386
+0.5	5	samples_per_second	1429.051
+0.5	5	steps_per_second	7.697
+0.5	6	loss	3.2508699893951416
+0.5	6	ProtoBurmish	0.7612	0.1886	0.7756
+0.5	6	ProtoPurus	0.4646	0.0807	0.8697
+0.5	6	ProtoLalo	0.68	0.2061	0.6804
+0.5	6	ProtoBai	0.8122	0.1992	0.7084
+0.5	6	ProtoKaren	0.6154	0.1564	0.7891
+0.5	6	Latin	1.3787	0.1671	0.7577
+0.5	6	runtime	2.4009
+0.5	6	samples_per_second	1391.984
+0.5	6	steps_per_second	7.497
+0.5	7	loss	3.3665947914123535
+0.5	7	ProtoBurmish	0.9701	0.2439	0.6922
+0.5	7	ProtoPurus	0.4343	0.0791	0.8692
+0.5	7	ProtoLalo	0.744	0.2249	0.6589
+0.5	7	ProtoBai	0.8603	0.2142	0.7079
+0.5	7	ProtoKaren	0.7198	0.1801	0.7667
+0.5	7	Latin	1.3806	0.1664	0.7576
+0.5	7	runtime	2.3511
+0.5	7	samples_per_second	1421.443
+0.5	7	steps_per_second	7.656
+0.5	8	loss	3.2713816165924072
+0.5	8	ProtoBurmish	0.9627	0.2364	0.7208
+0.5	8	ProtoPurus	0.404	0.0764	0.8776
+0.5	8	ProtoLalo	0.72	0.2181	0.6755
+0.5	8	ProtoBai	0.8166	0.2015	0.7213
+0.5	8	ProtoKaren	0.6703	0.1726	0.7685
+0.5	8	Latin	1.3343	0.1613	0.7679
+0.5	8	runtime	2.3705
+0.5	8	samples_per_second	1409.813
+0.5	8	steps_per_second	7.593
+0.5	9	loss	3.194622039794922
+0.5	9	ProtoBurmish	0.8284	0.2036	0.7343
+0.5	9	ProtoPurus	0.4848	0.0922	0.8541
+0.5	9	ProtoLalo	0.7056	0.2149	0.6807
+0.5	9	ProtoBai	0.8472	0.2094	0.6981
+0.5	9	ProtoKaren	0.6374	0.1629	0.7841
+0.5	9	Latin	1.3425	0.1645	0.7622
+0.5	9	runtime	2.4905
+0.5	9	samples_per_second	1341.886
+0.5	9	steps_per_second	7.227
+0.5	10	loss	3.1398842334747314
+0.5	10	ProtoBurmish	0.9104	0.2214	0.7312
+0.5	10	ProtoPurus	0.3838	0.068	0.8876
+0.5	10	ProtoLalo	0.6976	0.2126	0.6858
+0.5	10	ProtoBai	0.821	0.2038	0.7136
+0.5	10	ProtoKaren	0.6264	0.1502	0.7873
+0.5	10	Latin	1.4047	0.1705	0.756
+0.5	10	runtime	2.3495
+0.5	10	samples_per_second	1422.409
+0.5	10	steps_per_second	7.661
+0.8	1	loss	3.3245508670806885
+0.8	1	ProtoBurmish	1.1721	0.2963	0.6645
+0.8	1	ProtoPurus	0.5849	0.1133	0.8266
+0.8	1	ProtoLalo	0.8322	0.254	0.6374
+0.8	1	ProtoBai	0.8774	0.2257	0.6845
+0.8	1	ProtoKaren	1.0959	0.2741	0.6612
+0.8	1	Latin	1.5702	0.1869	0.735
+0.8	1	runtime	4.0934
+0.8	1	samples_per_second	1307.482
+0.8	1	steps_per_second	6.84
+0.8	2	loss	3.1752126216888428
+0.8	2	ProtoBurmish	1.2512	0.3068	0.6385
+0.8	2	ProtoPurus	0.4465	0.0831	0.8634
+0.8	2	ProtoLalo	0.8172	0.2456	0.6417
+0.8	2	ProtoBai	0.9891	0.2469	0.6628
+0.8	2	ProtoKaren	0.7877	0.2056	0.7606
+0.8	2	Latin	1.5359	0.1863	0.7371
+0.8	2	runtime	3.9038
+0.8	2	samples_per_second	1370.988
+0.8	2	steps_per_second	7.173
+0.8	3	loss	3.192269802093506
+0.8	3	ProtoBurmish	1.2512	0.3057	0.6318
+0.8	3	ProtoPurus	0.478	0.0871	0.8505
+0.8	3	ProtoLalo	0.8032	0.2467	0.6385
+0.8	3	ProtoBai	0.9074	0.2302	0.6878
+0.8	3	ProtoKaren	0.7774	0.1989	0.7312
+0.8	3	Latin	1.5301	0.186	0.7355
+0.8	3	runtime	4.0272
+0.8	3	samples_per_second	1328.956
+0.8	3	steps_per_second	6.953
+0.8	4	loss	3.24417781829834
+0.8	4	ProtoBurmish	1.3442	0.3399	0.6158
+0.8	4	ProtoPurus	0.5535	0.1005	0.8382
+0.8	4	ProtoLalo	0.8262	0.249	0.6408
+0.8	4	ProtoBai	0.9591	0.2387	0.6615
+0.8	4	ProtoKaren	0.75	0.188	0.7512
+0.8	4	Latin	1.5503	0.1861	0.7328
+0.8	4	runtime	4.033
+0.8	4	samples_per_second	1327.036
+0.8	4	steps_per_second	6.943
+0.8	5	loss	3.1767892837524414
+0.8	5	ProtoBurmish	0.9581	0.2457	0.6997
+0.8	5	ProtoPurus	0.5535	0.1094	0.8398
+0.8	5	ProtoLalo	0.7682	0.237	0.648
+0.8	5	ProtoBai	0.8883	0.2262	0.6791
+0.8	5	ProtoKaren	0.8185	0.2138	0.7449
+0.8	5	Latin	1.522	0.1833	0.7377
+0.8	5	runtime	3.9067
+0.8	5	samples_per_second	1369.938
+0.8	5	steps_per_second	7.167
+0.8	6	loss	3.144263744354248
+0.8	6	ProtoBurmish	1.2791	0.3174	0.6383
+0.8	6	ProtoPurus	0.5094	0.0987	0.8526
+0.8	6	ProtoLalo	0.8042	0.2474	0.6407
+0.8	6	ProtoBai	0.9809	0.2465	0.6638
+0.8	6	ProtoKaren	0.7568	0.1933	0.7483
+0.8	6	Latin	1.5645	0.1874	0.7342
+0.8	6	runtime	3.9191
+0.8	6	samples_per_second	1365.614
+0.8	6	steps_per_second	7.144
+0.8	7	loss	3.252826452255249
+0.8	7	ProtoBurmish	1.2	0.2978	0.6425
+0.8	7	ProtoPurus	0.5409	0.1015	0.8409
+0.8	7	ProtoLalo	0.8052	0.2442	0.6409
+0.8	7	ProtoBai	0.9782	0.2471	0.6708
+0.8	7	ProtoKaren	0.8082	0.2132	0.736
+0.8	7	Latin	1.5485	0.1865	0.7361
+0.8	7	runtime	3.9031
+0.8	7	samples_per_second	1371.202
+0.8	7	steps_per_second	7.174
+0.8	8	loss	3.2586252689361572
+0.8	8	ProtoBurmish	1.2512	0.3122	0.6286
+0.8	8	ProtoPurus	0.5346	0.1063	0.8524
+0.8	8	ProtoLalo	0.7702	0.235	0.6512
+0.8	8	ProtoBai	1.0354	0.2641	0.658
+0.8	8	ProtoKaren	0.7637	0.1993	0.7614
+0.8	8	Latin	1.5618	0.1877	0.7344
+0.8	8	runtime	4.0348
+0.8	8	samples_per_second	1326.459
+0.8	8	steps_per_second	6.94
+0.8	9	loss	3.2867751121520996
+0.8	9	ProtoBurmish	1.2372	0.3135	0.6174
+0.8	9	ProtoPurus	0.5409	0.1119	0.8487
+0.8	9	ProtoLalo	0.8521	0.2623	0.6275
+0.8	9	ProtoBai	0.8583	0.2202	0.6943
+0.8	9	ProtoKaren	0.8288	0.2109	0.7307
+0.8	9	Latin	1.5542	0.1865	0.7371
+0.8	9	runtime	4.0614
+0.8	9	samples_per_second	1317.765
+0.8	9	steps_per_second	6.894
+0.8	10	loss	3.2098324298858643
+0.8	10	ProtoBurmish	1.107	0.2884	0.6828
+0.8	10	ProtoPurus	0.5849	0.1051	0.8271
+0.8	10	ProtoLalo	0.7882	0.2392	0.6494
+0.8	10	ProtoBai	0.8992	0.2269	0.6854
+0.8	10	ProtoKaren	0.8322	0.2154	0.7476
+0.8	10	Latin	1.5491	0.1855	0.7331
+0.8	10	runtime	3.9189
+0.8	10	samples_per_second	1365.679
+0.8	10	steps_per_second	7.145
