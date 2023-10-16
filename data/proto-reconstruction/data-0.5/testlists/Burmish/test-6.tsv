@@ -1,0 +1,858 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
+563	AchangLongchuan	1	pɔ⁵⁵	p ɔ ⁵⁵	p ɔ ⁵⁵	1
+564	Atsi	1	po⁵¹	p o ⁵¹	p o ⁵¹	1
+565	Bola	1	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	1
+566	Lashi	1	pɔː³¹	p ɔː ³¹	p ɔː ³¹	1
+567	Maru	1	pɔ³¹	p ɔ ³¹	p ɔ ³¹	1
+568	Xiandao	1	pɔ³¹	p ɔ ³¹	p ɔ ³¹	1
+569	ProtoBurmish	1	ba¹	b a ¹	b a ¹	1
+847	AchangLongchuan	102	ti³¹	t i ³¹	t i ³¹	102
+848	Bola	102	tai³¹	t ai ³¹	t ai ³¹	102
+849	ProtoBurmish	102	dai²	d ai ²	d ai ²	102
+640	AchangLongchuan	104	ʈʂui³¹	ʈʂ ui ³¹	ʈʂ ui ³¹	104
+641	Bola	104	tʃui³¹	tʃ ui ³¹	tʃ ui ³¹	104
+642	Maru	104	tʃui³⁵	tʃ ui ³⁵	tʃ ui ³⁵	104
+643	ProtoBurmish	104	dʒui²	dʒ ui ²	dʒ ui ²	104
+500	Atsi	105	tʃi²¹	tʃ i ²¹	tʃ i ²¹	105
+501	Bola	105	ti³¹	t i ³¹	t i ³¹	105
+502	Lashi	105	tʃjː³³	tʃ jː ³³	tʃ jː ³³	105
+503	OldBurmese	105	ci⁵	c i ⁵	c i ⁵	105
+504	Rangoon	105	ti²²	t i ²²	t i ²²	105
+505	Xiandao	105	tsi³¹	ts i ³¹	ts i ³¹	105
+506	ProtoBurmish	105	dze²	dz e ²	dz e ²	105
+712	AchangLongchuan	118	mɔʔ³¹	m ɔ ʔ ³¹	m ɔ ʔ ³¹	118
+713	Atsi	118	mo⁵⁵	m o ⁵⁵	m o ⁵⁵	118
+714	Lashi	118	mo⁵⁵	m o ⁵⁵	m o ⁵⁵	118
+715	Maru	118	mɔ⁵⁵	m ɔ ⁵⁵	m ɔ ⁵⁵	118
+716	OldBurmese	118	maʔ	m a ʔ	m a ʔ	118
+717	Rangoon	118	mɑ⁵³	m ɑ ⁵³	m ɑ ⁵³	118
+718	Xiandao	118	mɔ³¹	m ɔ ³¹	m ɔ ³¹	118
+719	ProtoBurmish	118	ma³	m a ³	m a ³	118
+170	AchangLongchuan	123	tu⁵⁵	t u ⁵⁵	t u ⁵⁵	123
+171	Atsi	123	tut²¹	t u t ²¹	t u t ²¹	123
+172	Lashi	123	tuː³¹	t uː ³¹	t uː ³¹	123
+173	Maru	123	tøʔ³¹	t ø ʔ ³¹	t ø ʔ ³¹	123
+174	OldBurmese	123	tu	t u	t u	123
+175	Xiandao	123	tut⁵⁵	t u t ⁵⁵	t u t ⁵⁵	123
+176	ProtoBurmish	123	dʊ¹	d ʊ ¹	d ʊ ¹	123
+586	AchangLongchuan	125	pan³¹	p a n ³¹	p a n ³¹	125
+587	Lashi	125	tuː³³	t uː ³³	t uː ³³	125
+588	Maru	125	tau³⁵	t au ³⁵	t au ³⁵	125
+589	OldBurmese	125	tu⁵	t u ⁵	t u ⁵	125
+590	Rangoon	125	tu⁵⁵	t u ⁵⁵	t u ⁵⁵	125
+591	Xiandao	125	tʰjau⁵¹	tʰ j au ⁵¹	tʰ j au ⁵¹	125
+592	ProtoBurmish	125	dʊ²	d ʊ ²	d ʊ ²	125
+17	Atsi	129	tʃiŋ⁵⁵	tʃ i ŋ ⁵⁵	tʃ i ŋ ⁵⁵	129
+18	Bola	129	tʃaŋ³⁵	tʃ a ŋ ³⁵	tʃ a ŋ ³⁵	129
+19	Lashi	129	tʃəːŋ⁵⁵	tʃ əː ŋ ⁵⁵	tʃ əː ŋ ⁵⁵	129
+20	Maru	129	tʃaŋ⁵⁵	tʃ a ŋ ⁵⁵	tʃ a ŋ ⁵⁵	129
+21	ProtoBurmish	129	dʒiŋ³	dʒ i ŋ ³	dʒ i ŋ ³	129
+390	Atsi	141	ke⁵¹	k e ⁵¹	k e ⁵¹	141
+391	Bola	141	kai⁵⁵	k ai ⁵⁵	k ai ⁵⁵	141
+392	Lashi	141	kɛː³¹	k ɛː ³¹	k ɛː ³¹	141
+393	Maru	141	kai³¹	k ai ³¹	k ai ³¹	141
+394	Rangoon	141	tɕɑ⁵⁵	tɕ ɑ ⁵⁵	tɕ ɑ ⁵⁵	141
+395	Xiandao	141	cɛ⁵⁵	c ɛ ⁵⁵	c ɛ ⁵⁵	141
+396	ProtoBurmish	141	gai¹	g ai ¹	g ai ¹	141
+90	AchangLongchuan	148	kan³¹	k a n ³¹	k a n ³¹	148
+91	Bola	148	kʰaʔ⁵⁵	kʰ a ʔ ⁵⁵	kʰ a ʔ ⁵⁵	148
+92	Lashi	148	kʰaʔ⁵⁵	kʰ a ʔ ⁵⁵	kʰ a ʔ ⁵⁵	148
+93	Maru	148	kaŋ³⁵	k a ŋ ³⁵	k a ŋ ³⁵	148
+94	Rangoon	148	kɑ̃⁵⁵	k ɑ̃ ⁵⁵	k ɑ̃ ⁵⁵	148
+95	Xiandao	148	kan⁵¹	k a n ⁵¹	k a n ⁵¹	148
+96	ProtoBurmish	148	gan²	g a n ²	g a n ²	148
+317	Atsi	166	kik²¹	k i k ²¹	k i k ²¹	166
+318	Bola	166	kak³¹	k a k ³¹	k a k ³¹	166
+319	Maru	166	kak³¹	k a k ³¹	k a k ³¹	166
+320	Rangoon	166	kɔ²²	k ɔ ²²	k ɔ ²²	166
+321	Xiandao	166	kʐak³⁵	k ʐ a k ³⁵	k ʐ a k ³⁵	166
+322	ProtoBurmish	166	gik⁴	g i k ⁴	g i k ⁴	166
+382	AchangLongchuan	179	kʐwaʔ⁵⁵	k ʐ w a ʔ ⁵⁵	k ʐ w a ʔ ⁵⁵	179
+383	Atsi	179	voʔ²¹	v o ʔ ²¹	v o ʔ ²¹	179
+384	Bola	179	ɣaʔ³¹	ɣ a ʔ ³¹	ɣ a ʔ ³¹	179
+385	Lashi	179	kjɔʔ³¹	k j ɔ ʔ ³¹	k j ɔ ʔ ³¹	179
+386	OldBurmese	179	krak	k r a k	k r a k	179
+387	Rangoon	179	tɕɛʔ⁴	tɕ ɛ ʔ ⁴	tɕ ɛ ʔ ⁴	179
+388	Xiandao	179	kʐɔʔ⁵⁵	k ʐ ɔ ʔ ⁵⁵	k ʐ ɔ ʔ ⁵⁵	179
+389	ProtoBurmish	179	grak⁴	g r a k ⁴	g r a k ⁴	179
+44	AchangLongchuan	18	pi³¹	p i ³¹	p i ³¹	18
+45	Bola	18	pi³¹	p i ³¹	p i ³¹	18
+46	OldBurmese	18	pij⁵	p i j ⁵	p i j ⁵	18
+47	ProtoBurmish	18	bi²	b i ²	b i ²	18
+223	AchangLongchuan	183	kʐə³¹	k ʐ ə ³¹	k ʐ ə ³¹	183
+224	Atsi	183	ko̱²¹	k o̱ ²¹	k o̱ ²¹	183
+225	Bola	183	kɔ̱³⁵	k ɔ̱ ³⁵	k ɔ̱ ³⁵	183
+226	Lashi	183	kjiː³³	k j iː ³³	k j iː ³³	183
+227	OldBurmese	183	kri⁵	k r i ⁵	k r i ⁵	183
+228	Rangoon	183	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	183
+229	Xiandao	183	kɯ³¹	k ɯ ³¹	k ɯ ³¹	183
+230	ProtoBurmish	183	gre²	g r e ²	g r e ²	183
+680	Atsi	206	jo⁵¹	j o ⁵¹	j o ⁵¹	206
+681	Bola	206	ja⁵⁵	j a ⁵⁵	j a ⁵⁵	206
+682	Lashi	206	jo³¹	j o ³¹	j o ³¹	206
+683	Maru	206	jɔ³¹	j ɔ ³¹	j ɔ ³¹	206
+684	OldBurmese	206	ja	j a	j a	206
+685	Rangoon	206	jɑ⁵³	j ɑ ⁵³	j ɑ ⁵³	206
+686	Xiandao	206	jɔ³¹	j ɔ ³¹	j ɔ ³¹	206
+687	ProtoBurmish	206	ja¹	j a ¹	j a ¹	206
+340	Atsi	210	joʔ²¹	j o ʔ ²¹	j o ʔ ²¹	210
+341	Bola	210	jaʔ³¹	j a ʔ ³¹	j a ʔ ³¹	210
+342	Lashi	210	jɔːʔ³¹	j ɔː ʔ ³¹	j ɔː ʔ ³¹	210
+343	Maru	210	jɔʔ³¹	j ɔ ʔ ³¹	j ɔ ʔ ³¹	210
+344	Rangoon	210	jɛʔ⁴	j ɛ ʔ ⁴	j ɛ ʔ ⁴	210
+345	ProtoBurmish	210	jak⁴	j a k ⁴	j a k ⁴	210
+647	AchangLongchuan	217	ʑap⁵⁵	ʑ a p ⁵⁵	ʑ a p ⁵⁵	217
+648	Atsi	217	jap²¹	j a p ²¹	j a p ²¹	217
+649	Bola	217	jɛʔ⁵⁵	j ɛ ʔ ⁵⁵	j ɛ ʔ ⁵⁵	217
+650	Lashi	217	jaːp³¹	j aː p ³¹	j aː p ³¹	217
+651	Maru	217	jɛʔ³¹	j ɛ ʔ ³¹	j ɛ ʔ ³¹	217
+652	OldBurmese	217	rjap	r j a p	r j a p	217
+653	Rangoon	217	jɑʔ⁴	j ɑ ʔ ⁴	j ɑ ʔ ⁴	217
+654	Xiandao	217	jap⁵⁵	j a p ⁵⁵	j a p ⁵⁵	217
+655	ProtoBurmish	217	jap⁴	j a p ⁴	j a p ⁴	217
+522	Atsi	22	pji²¹	p j i ²¹	p j i ²¹	22
+523	Maru	22	pjik⁵⁵	p j i k ⁵⁵	p j i k ⁵⁵	22
+524	Rangoon	22	pe⁵⁵	p e ⁵⁵	p e ⁵⁵	22
+525	Xiandao	22	pi³¹	p i ³¹	p i ³¹	22
+526	ProtoBurmish	22	bje²	b j e ²	b j e ²	22
+667	AchangLongchuan	232	ʑuʔ⁵⁵	ʑ u ʔ ⁵⁵	ʑ u ʔ ⁵⁵	232
+668	OldBurmese	232	jɔk	j ɔ k	j ɔ k	232
+669	ProtoBurmish	232	ˀjuk⁴	ˀj u k ⁴	ˀj u k ⁴	232
+656	Atsi	233	juʔ²¹	j u ʔ ²¹	j u ʔ ²¹	233
+657	Bola	233	jauʔ³¹	j au ʔ ³¹	j au ʔ ³¹	233
+658	Lashi	233	ju̥ʔ³¹	j u̥ ʔ ³¹	j u̥ ʔ ³¹	233
+659	Maru	233	jauk³¹	j au k ³¹	j au k ³¹	233
+660	Rangoon	233	jɑuʔ⁴	j ɑu ʔ ⁴	j ɑu ʔ ⁴	233
+661	Xiandao	233	juʔ⁵⁵	j u ʔ ⁵⁵	j u ʔ ⁵⁵	233
+662	ProtoBurmish	233	juk⁴	j u k ⁴	j u k ⁴	233
+214	AchangLongchuan	246	kʐaŋ⁵⁵	k ʐ a ŋ ⁵⁵	k ʐ a ŋ ⁵⁵	246
+215	Atsi	246	kja̱ŋ⁵¹	k j a̱ ŋ ⁵¹	k j a̱ ŋ ⁵¹	246
+216	Bola	246	ka̱ʔ⁵⁵	k a̱ ʔ ⁵⁵	k a̱ ʔ ⁵⁵	246
+217	Lashi	246	kɔ̱ʔ⁵⁵	k ɔ̱ ʔ ⁵⁵	k ɔ̱ ʔ ⁵⁵	246
+218	Maru	246	kɔ̱ʔ⁵⁵	k ɔ̱ ʔ ⁵⁵	k ɔ̱ ʔ ⁵⁵	246
+219	OldBurmese	246	kʰak	kʰ a k	kʰ a k	246
+220	Rangoon	246	kʰɛʔ⁴	kʰ ɛ ʔ ⁴	kʰ ɛ ʔ ⁴	246
+221	Xiandao	246	xɔʔ⁵⁵	x ɔ ʔ ⁵⁵	x ɔ ʔ ⁵⁵	246
+222	ProtoBurmish	246	ˀkak⁴	ˀk a k ⁴	ˀk a k ⁴	246
+726	Bola	247	kʰaʔ⁵⁵	kʰ a ʔ ⁵⁵	kʰ a ʔ ⁵⁵	247
+727	Maru	247	kʰɔʔ⁵⁵	kʰ ɔ ʔ ⁵⁵	kʰ ɔ ʔ ⁵⁵	247
+728	OldBurmese	247	kʰak	kʰ a k	kʰ a k	247
+729	ProtoBurmish	247	kak⁴	k a k ⁴	k a k ⁴	247
+252	AchangLongchuan	248	xam⁵⁵	x a m ⁵⁵	x a m ⁵⁵	248
+253	OldBurmese	248	kʰam	kʰ a m	kʰ a m	248
+254	ProtoBurmish	248	ˀkam¹	ˀk a m ¹	ˀk a m ¹	248
+199	Atsi	249	kʰam⁵¹	kʰ a m ⁵¹	kʰ a m ⁵¹	249
+200	Bola	249	kʰɛ̃⁵⁵	kʰ ɛ̃ ⁵⁵	kʰ ɛ̃ ⁵⁵	249
+201	Lashi	249	kʰuː⁵⁵	kʰ uː ⁵⁵	kʰ uː ⁵⁵	249
+202	Maru	249	kʰɛ̃³¹	kʰ ɛ̃ ³¹	kʰ ɛ̃ ³¹	249
+203	Rangoon	249	kʰɑʔ⁴	kʰ ɑ ʔ ⁴	kʰ ɑ ʔ ⁴	249
+204	Xiandao	249	kɤ⁵⁵	k ɤ ⁵⁵	k ɤ ⁵⁵	249
+205	ProtoBurmish	249	kam¹	k a m ¹	k a m ¹	249
+737	Bola	251	kʰɛʔ⁵⁵	kʰ ɛ ʔ ⁵⁵	kʰ ɛ ʔ ⁵⁵	251
+738	Maru	251	kʰɛʔ⁵⁵	kʰ ɛ ʔ ⁵⁵	kʰ ɛ ʔ ⁵⁵	251
+739	ProtoBurmish	251	kap⁴	k a p ⁴	k a p ⁴	251
+145	AchangLongchuan	253	xat⁵⁵	x a t ⁵⁵	x a t ⁵⁵	253
+146	Atsi	253	kʰat⁵⁵	kʰ a t ⁵⁵	kʰ a t ⁵⁵	253
+147	Lashi	253	kʰat⁵⁵	kʰ a t ⁵⁵	kʰ a t ⁵⁵	253
+148	ProtoBurmish	253	kat⁴	k a t ⁴	k a t ⁴	253
+231	Bola	254	kʰak⁵⁵	kʰ a k ⁵⁵	kʰ a k ⁵⁵	254
+232	Maru	254	kʰak⁵⁵	kʰ a k ⁵⁵	kʰ a k ⁵⁵	254
+233	ProtoBurmish	254	kik⁴	k i k ⁴	k i k ⁴	254
+323	AchangLongchuan	257	kʰʐam⁵⁵	kʰ ʐ a m ⁵⁵	kʰ ʐ a m ⁵⁵	257
+324	Atsi	257	kʰjam⁵¹	kʰ j a m ⁵¹	kʰ j a m ⁵¹	257
+325	Bola	257	kʰjɛ̃⁵⁵	kʰ j ɛ̃ ⁵⁵	kʰ j ɛ̃ ⁵⁵	257
+326	Lashi	257	kʰjam³³	kʰ j a m ³³	kʰ j a m ³³	257
+327	Maru	257	kʰjɛ̃³¹	kʰ j ɛ̃ ³¹	kʰ j ɛ̃ ³¹	257
+328	Rangoon	257	tɕʰɑ̃²²	tɕʰ ɑ̃ ²²	tɕʰ ɑ̃ ²²	257
+329	Xiandao	257	kʰʐam⁵⁵	kʰ ʐ a m ⁵⁵	kʰ ʐ a m ⁵⁵	257
+330	ProtoBurmish	257	kjam¹	k j a m ¹	k j a m ¹	257
+406	AchangLongchuan	260	tɕʰap⁵⁵	tɕʰ a p ⁵⁵	tɕʰ a p ⁵⁵	260
+407	Atsi	260	kʰjap⁵⁵	kʰ j a p ⁵⁵	kʰ j a p ⁵⁵	260
+408	Bola	260	kʰjɛʔ⁵⁵	kʰ j ɛ ʔ ⁵⁵	kʰ j ɛ ʔ ⁵⁵	260
+409	Lashi	260	kʰjap⁵⁵	kʰ j a p ⁵⁵	kʰ j a p ⁵⁵	260
+410	Maru	260	kʰjɛʔ⁵⁵	kʰ j ɛ ʔ ⁵⁵	kʰ j ɛ ʔ ⁵⁵	260
+411	Rangoon	260	mjɛʔ⁴	m j ɛ ʔ ⁴	m j ɛ ʔ ⁴	260
+412	Xiandao	260	kʰʒap⁵⁵	kʰ ʒ a p ⁵⁵	kʰ ʒ a p ⁵⁵	260
+413	ProtoBurmish	260	kjap⁴	k j a p ⁴	k j a p ⁴	260
+294	Maru	268	tsʰɛʔ⁵⁵	tsʰ ɛ ʔ ⁵⁵	tsʰ ɛ ʔ ⁵⁵	268
+295	OldBurmese	268	tʃʰap	tʃʰ a p	tʃʰ a p	268
+296	ProtoBurmish	268	tsap⁴	ts a p ⁴	ts a p ⁴	268
+240	Atsi	270	kʰjaŋ⁵¹	kʰ j a ŋ ⁵¹	kʰ j a ŋ ⁵¹	270
+241	Bola	270	kʰjɔ̃⁵⁵	kʰ j ɔ̃ ⁵⁵	kʰ j ɔ̃ ⁵⁵	270
+242	Lashi	270	kʰjaŋ³³	kʰ j a ŋ ³³	kʰ j a ŋ ³³	270
+243	Maru	270	kʰjɔ̃³¹	kʰ j ɔ̃ ³¹	kʰ j ɔ̃ ³¹	270
+244	Xiandao	270	kʰʐaŋ⁵⁵	kʰ ʐ a ŋ ⁵⁵	kʰ ʐ a ŋ ⁵⁵	270
+245	ProtoBurmish	270	kjaŋ¹	k j a ŋ ¹	k j a ŋ ¹	270
+478	AchangLongchuan	272	kʰʐaŋ⁵⁵	kʰ ʐ a ŋ ⁵⁵	kʰ ʐ a ŋ ⁵⁵	272
+479	Atsi	272	kʰjaŋ⁵⁵	kʰ j a ŋ ⁵⁵	kʰ j a ŋ ⁵⁵	272
+480	Bola	272	kʰjɔ̃³⁵	kʰ j ɔ̃ ³⁵	kʰ j ɔ̃ ³⁵	272
+481	Lashi	272	kʰjaŋ⁵³	kʰ j a ŋ ⁵³	kʰ j a ŋ ⁵³	272
+482	Maru	272	kʰjɔ̃⁵⁵	kʰ j ɔ̃ ⁵⁵	kʰ j ɔ̃ ⁵⁵	272
+483	Xiandao	272	kʰʐaŋ⁵⁵	kʰ ʐ a ŋ ⁵⁵	kʰ ʐ a ŋ ⁵⁵	272
+484	ProtoBurmish	272	kjaŋ³	k j a ŋ ³	k j a ŋ ³	272
+604	Atsi	3	pjo⁵¹	p j o ⁵¹	p j o ⁵¹	3
+605	Bola	3	pa³⁵	p a ³⁵	p a ³⁵	3
+606	Lashi	3	po⁵⁵	p o ⁵⁵	p o ⁵⁵	3
+607	Maru	3	pɔ⁵⁵	p ɔ ⁵⁵	p ɔ ⁵⁵	3
+608	Xiandao	3	pɔ³¹	p ɔ ³¹	p ɔ ³¹	3
+609	ProtoBurmish	3	ba³	b a ³	b a ³	3
+255	Atsi	308	kam⁵⁵	k a m ⁵⁵	k a m ⁵⁵	308
+256	Bola	308	kʰjak⁵⁵	kʰ j a k ⁵⁵	kʰ j a k ⁵⁵	308
+257	Maru	308	kʰjak⁵⁵	kʰ j a k ⁵⁵	kʰ j a k ⁵⁵	308
+258	Xiandao	308	kɤt³⁵	k ɤ t ³⁵	k ɤ t ³⁵	308
+259	ProtoBurmish	308	kjik⁴	k j i k ⁴	k j i k ⁴	308
+820	AchangLongchuan	31	pʐaŋ⁵⁵	p ʐ a ŋ ⁵⁵	p ʐ a ŋ ⁵⁵	31
+821	Atsi	31	pjo̱ʔ⁵⁵	p j o̱ ʔ ⁵⁵	p j o̱ ʔ ⁵⁵	31
+822	Bola	31	pjaʔ³¹	p j a ʔ ³¹	p j a ʔ ³¹	31
+823	Maru	31	pjɔʔ³¹	p j ɔ ʔ ³¹	p j ɔ ʔ ³¹	31
+824	Rangoon	31	pɑ⁵⁵	p ɑ ⁵⁵	p ɑ ⁵⁵	31
+825	Xiandao	31	pʰʐa³⁵	pʰ ʐ a ³⁵	pʰ ʐ a ³⁵	31
+826	ProtoBurmish	31	bjak⁴	b j a k ⁴	b j a k ⁴	31
+540	AchangLongchuan	314	xʐwa⁵⁵	x ʐ w a ⁵⁵	x ʐ w a ⁵⁵	314
+541	Atsi	314	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	314
+542	Lashi	314	pʰjaŋ⁵⁵	pʰ j a ŋ ⁵⁵	pʰ j a ŋ ⁵⁵	314
+543	Maru	314	kʰjɔ³¹	kʰ j ɔ ³¹	kʰ j ɔ ³¹	314
+544	Rangoon	314	pɔ²²	p ɔ ²²	p ɔ ²²	314
+545	Xiandao	314	mɔ³¹	m ɔ ³¹	m ɔ ³¹	314
+546	ProtoBurmish	314	kra¹	k r a ¹	k r a ¹	314
+775	AchangLongchuan	323	xʐop⁵⁵	x ʐ o p ⁵⁵	x ʐ o p ⁵⁵	323
+776	Atsi	323	kʰjup⁵⁵	kʰ j u p ⁵⁵	kʰ j u p ⁵⁵	323
+777	Bola	323	kʰjap⁵⁵	kʰ j a p ⁵⁵	kʰ j a p ⁵⁵	323
+778	Lashi	323	kʰjuːp⁵⁵	kʰ j uː p ⁵⁵	kʰ j uː p ⁵⁵	323
+779	Xiandao	323	tʃʰup⁵⁵	tʃʰ u p ⁵⁵	tʃʰ u p ⁵⁵	323
+780	ProtoBurmish	323	krup⁴	k r u p ⁴	k r u p ⁴	323
+114	AchangLongchuan	334	lɔʔ⁵⁵	l ɔ ʔ ⁵⁵	l ɔ ʔ ⁵⁵	334
+115	Atsi	334	loʔ²¹	l o ʔ ²¹	l o ʔ ²¹	334
+116	Bola	334	laʔ³¹	l a ʔ ³¹	l a ʔ ³¹	334
+117	Lashi	334	lɔʔ³¹	l ɔ ʔ ³¹	l ɔ ʔ ³¹	334
+118	Maru	334	lɔʔ³¹	l ɔ ʔ ³¹	l ɔ ʔ ³¹	334
+119	OldBurmese	334	lak	l a k	l a k	334
+120	Rangoon	334	lɛʔ⁴	l ɛ ʔ ⁴	l ɛ ʔ ⁴	334
+121	Xiandao	334	lɔʔ⁵⁵	l ɔ ʔ ⁵⁵	l ɔ ʔ ⁵⁵	334
+122	ProtoBurmish	334	lak⁴	l a k ⁴	l a k ⁴	334
+297	AchangLongchuan	335	oʔ⁵⁵	o ʔ ⁵⁵	o ʔ ⁵⁵	335
+298	Bola	335	vaʔ³¹	v a ʔ ³¹	v a ʔ ³¹	335
+299	Maru	335	vɔʔ³¹	v ɔ ʔ ³¹	v ɔ ʔ ³¹	335
+300	OldBurmese	335	wak	w a k	w a k	335
+301	ProtoBurmish	335	wak⁴	w a k ⁴	w a k ⁴	335
+632	Atsi	337	va⁵¹	v a ⁵¹	v a ⁵¹	337
+633	Bola	337	va⁵⁵	v a ⁵⁵	v a ⁵⁵	337
+634	Lashi	337	wo³¹	w o ³¹	w o ³¹	337
+635	Maru	337	vɔ³¹	v ɔ ³¹	v ɔ ³¹	337
+636	OldBurmese	337	wa	w a	w a	337
+637	Rangoon	337	jwɑ²²	j w ɑ ²²	j w ɑ ²²	337
+638	Xiandao	337	o⁵⁵	o ⁵⁵	o ⁵⁵	337
+639	ProtoBurmish	337	wa¹	w a ¹	w a ¹	337
+464	Atsi	349	laŋ⁵¹	l a ŋ ⁵¹	l a ŋ ⁵¹	349
+465	Bola	349	lɔ̃³¹	l ɔ̃ ³¹	l ɔ̃ ³¹	349
+466	Lashi	349	laːŋ³³	l aː ŋ ³³	l aː ŋ ³³	349
+467	Maru	349	lɔ̃³⁵	l ɔ̃ ³⁵	l ɔ̃ ³⁵	349
+468	Rangoon	349	twĩ⁵⁵	t w ĩ ⁵⁵	t w ĩ ⁵⁵	349
+469	Xiandao	349	tʐoŋ³¹	t ʐ o ŋ ³¹	t ʐ o ŋ ³¹	349
+470	ProtoBurmish	349	laŋ²	l a ŋ ²	l a ŋ ²	349
+578	AchangLongchuan	350	lwaŋ³⁵	l w a ŋ ³⁵	l w a ŋ ³⁵	350
+579	Atsi	350	laŋ⁵⁵	l a ŋ ⁵⁵	l a ŋ ⁵⁵	350
+580	Bola	350	lɔ̃³⁵	l ɔ̃ ³⁵	l ɔ̃ ³⁵	350
+581	Lashi	350	laːŋ⁵⁵	l aː ŋ ⁵⁵	l aː ŋ ⁵⁵	350
+582	Maru	350	lɔ̃⁵⁵	l ɔ̃ ⁵⁵	l ɔ̃ ⁵⁵	350
+583	OldBurmese	350	laŋʔ	l a ŋ ʔ	l a ŋ ʔ	350
+584	Xiandao	350	lɔŋ³⁵	l ɔ ŋ ³⁵	l ɔ ŋ ³⁵	350
+585	ProtoBurmish	350	laŋ³	l a ŋ ³	l a ŋ ³	350
+374	Atsi	353	lai⁵¹	l ai ⁵¹	l ai ⁵¹	353
+375	Bola	353	li⁵⁵	l i ⁵⁵	l i ⁵⁵	353
+376	Lashi	353	lei³¹	l ei ³¹	l ei ³¹	353
+377	Maru	353	la³¹	l a ³¹	l a ³¹	353
+378	OldBurmese	353	lij	l i j	l i j	353
+379	Rangoon	353	lɛ²²	l ɛ ²²	l ɛ ²²	353
+380	Xiandao	353	lai⁵⁵	l ai ⁵⁵	l ai ⁵⁵	353
+381	ProtoBurmish	353	li¹	l i ¹	l i ¹	353
+62	AchangLongchuan	360	li³¹	l i ³¹	l i ³¹	360
+63	Atsi	360	lai²¹	l ai ²¹	l ai ²¹	360
+64	Bola	360	li³¹	l i ³¹	l i ³¹	360
+65	Lashi	360	lei³³	l ei ³³	l ei ³³	360
+66	Maru	360	la³⁵	l a ³⁵	l a ³⁵	360
+67	OldBurmese	360	lij⁵	l i j ⁵	l i j ⁵	360
+68	Rangoon	360	le⁵⁵	l e ⁵⁵	l e ⁵⁵	360
+69	Xiandao	360	l̥ai³⁵	l̥ ai ³⁵	l̥ ai ³⁵	360
+70	ProtoBurmish	360	li²	l i ²	l i ²	360
+185	AchangLongchuan	369	lək⁵⁵	l ə k ⁵⁵	l ə k ⁵⁵	369
+186	Atsi	369	lik²¹	l i k ²¹	l i k ²¹	369
+187	Bola	369	lak³¹	l a k ³¹	l a k ³¹	369
+188	Lashi	369	lək³¹	l ə k ³¹	l ə k ³¹	369
+189	Maru	369	lak³¹	l a k ³¹	l a k ³¹	369
+190	Xiandao	369	lɔʔ⁵⁵	l ɔ ʔ ⁵⁵	l ɔ ʔ ⁵⁵	369
+191	ProtoBurmish	369	lik⁴	l i k ⁴	l i k ⁴	369
+624	Atsi	371	leŋ²¹	l e ŋ ²¹	l e ŋ ²¹	371
+625	Bola	371	laŋ³¹	l a ŋ ³¹	l a ŋ ³¹	371
+626	Lashi	371	ləŋ³¹	l ə ŋ ³¹	l ə ŋ ³¹	371
+627	Maru	371	laŋ³⁵	l a ŋ ³⁵	l a ŋ ³⁵	371
+628	OldBurmese	371	laɲ⁵	l a ɲ ⁵	l a ɲ ⁵	371
+629	Rangoon	371	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	371
+630	Xiandao	371	liŋ³¹	l i ŋ ³¹	l i ŋ ³¹	371
+631	ProtoBurmish	371	liŋ²	l i ŋ ²	l i ŋ ²	371
+514	AchangLongchuan	383	mɔʔ⁵⁵	m ɔ ʔ ⁵⁵	m ɔ ʔ ⁵⁵	383
+515	Atsi	383	moʔ²¹	m o ʔ ²¹	m o ʔ ²¹	383
+516	Bola	383	maʔ⁵⁵	m a ʔ ⁵⁵	m a ʔ ⁵⁵	383
+517	Lashi	383	mɔʔ³¹	m ɔ ʔ ³¹	m ɔ ʔ ³¹	383
+518	Maru	383	mɔʔ³¹	m ɔ ʔ ³¹	m ɔ ʔ ³¹	383
+519	OldBurmese	383	mak	m a k	m a k	383
+520	Xiandao	383	mɔʔ⁵⁵	m ɔ ʔ ⁵⁵	m ɔ ʔ ⁵⁵	383
+521	ProtoBurmish	383	mak⁴	m a k ⁴	m a k ⁴	383
+206	AchangLongchuan	384	man³⁵	m a n ³⁵	m a n ³⁵	384
+207	Atsi	384	man⁵⁵	m a n ⁵⁵	m a n ⁵⁵	384
+208	Bola	384	mɛ̃³⁵	m ɛ̃ ³⁵	m ɛ̃ ³⁵	384
+209	Lashi	384	maːn⁵⁵	m aː n ⁵⁵	m aː n ⁵⁵	384
+210	Maru	384	məŋ⁵⁵	m ə ŋ ⁵⁵	m ə ŋ ⁵⁵	384
+211	Rangoon	384	mɑ⁵³	m ɑ ⁵³	m ɑ ⁵³	384
+212	Xiandao	384	m̥an³⁵	m̥ a n ³⁵	m̥ a n ³⁵	384
+213	ProtoBurmish	384	man³	m a n ³	m a n ³	384
+260	AchangLongchuan	389	mʐwaŋ⁵⁵	m ʐ w a ŋ ⁵⁵	m ʐ w a ŋ ⁵⁵	389
+261	Atsi	389	mjaŋ⁵¹	m j a ŋ ⁵¹	m j a ŋ ⁵¹	389
+262	Lashi	389	mjaːŋ³¹	m j aː ŋ ³¹	m j aː ŋ ³¹	389
+263	Maru	389	mjɔ̃³¹	m j ɔ̃ ³¹	m j ɔ̃ ³¹	389
+264	OldBurmese	389	mraŋ	m r a ŋ	m r a ŋ	389
+265	Rangoon	389	mjĩ²²	m j ĩ ²²	m j ĩ ²²	389
+266	Xiandao	389	mʐaŋ⁵⁵	m ʐ a ŋ ⁵⁵	m ʐ a ŋ ⁵⁵	389
+267	ProtoBurmish	389	mraŋ¹	m r a ŋ ¹	m r a ŋ ¹	389
+123	AchangLongchuan	390	mwaŋ³¹	m w a ŋ ³¹	m w a ŋ ³¹	390
+124	Atsi	390	maŋ²¹	m a ŋ ²¹	m a ŋ ²¹	390
+125	Bola	390	mɔ̃³¹	m ɔ̃ ³¹	m ɔ̃ ³¹	390
+126	Lashi	390	maŋ³³	m a ŋ ³³	m a ŋ ³³	390
+127	Maru	390	mɔ̃³⁵	m ɔ̃ ³⁵	m ɔ̃ ³⁵	390
+128	OldBurmese	390	maŋ⁵	m a ŋ ⁵	m a ŋ ⁵	390
+129	Rangoon	390	o²²	o ²²	o ²²	390
+130	Xiandao	390	mɔŋ³¹	m ɔ ŋ ³¹	m ɔ ŋ ³¹	390
+131	ProtoBurmish	390	maŋ²	m a ŋ ²	m a ŋ ²	390
+397	AchangLongchuan	394	ȵi³¹	ȵ i ³¹	ȵ i ³¹	394
+398	Atsi	394	mji²¹	m j i ²¹	m j i ²¹	394
+399	Bola	394	məi³¹	m əi ³¹	m əi ³¹	394
+400	Lashi	394	mjeːi³³	m j eːi ³³	m j eːi ³³	394
+401	Maru	394	mjik⁵⁵	m j i k ⁵⁵	m j i k ⁵⁵	394
+402	OldBurmese	394	mun⁵	m u n ⁵	m u n ⁵	394
+403	Rangoon	394	me⁵⁵	m e ⁵⁵	m e ⁵⁵	394
+404	Xiandao	394	ni³¹	n i ³¹	n i ³¹	394
+405	ProtoBurmish	394	ne²	n e ²	n e ²	394
+83	AchangLongchuan	4	pan⁵⁵	p a n ⁵⁵	p a n ⁵⁵	4
+84	Atsi	4	pa̱n⁵⁵	p a̱ n ⁵⁵	p a̱ n ⁵⁵	4
+85	Bola	4	pɛ̃⁵⁵	p ɛ̃ ⁵⁵	p ɛ̃ ⁵⁵	4
+86	Lashi	4	pan³¹	p a n ³¹	p a n ³¹	4
+87	Maru	4	pəŋ³¹	p ə ŋ ³¹	p ə ŋ ³¹	4
+88	Xiandao	4	pan⁵⁵	p a n ⁵⁵	p a n ⁵⁵	4
+89	ProtoBurmish	4	ban¹	b a n ¹	b a n ¹	4
+740	AchangLongchuan	40	pʐəŋ³⁵	p ʐ ə ŋ ³⁵	p ʐ ə ŋ ³⁵	40
+741	Atsi	40	pjiŋ⁵⁵	p j i ŋ ⁵⁵	p j i ŋ ⁵⁵	40
+742	Lashi	40	pjəːŋ⁵⁵	p j əː ŋ ⁵⁵	p j əː ŋ ⁵⁵	40
+743	Maru	40	pjaŋ⁵⁵	p j a ŋ ⁵⁵	p j a ŋ ⁵⁵	40
+744	Rangoon	40	pje⁵³	p j e ⁵³	p j e ⁵³	40
+745	Xiandao	40	pɯŋ³⁵	p ɯ ŋ ³⁵	p ɯ ŋ ³⁵	40
+746	ProtoBurmish	40	briŋ³	b r i ŋ ³	b r i ŋ ³	40
+104	AchangLongchuan	400	ȵi⁵⁵	ȵ i ⁵⁵	ȵ i ⁵⁵	400
+105	Maru	400	mjik³¹	m j i k ³¹	m j i k ³¹	400
+106	ProtoBurmish	400	mji¹	m j i ¹	m j i ¹	400
+302	Atsi	414	mji̱⁵⁵	m j i̱ ⁵⁵	m j i̱ ⁵⁵	414
+303	Bola	414	mə̱i³¹	m ə̱i ³¹	m ə̱i ³¹	414
+304	Lashi	414	mje̱ːi⁵³	m j e̱ːi ⁵³	m j e̱ːi ⁵³	414
+305	OldBurmese	414	mijʔ	m i j ʔ	m i j ʔ	414
+306	Rangoon	414	mi⁵³	m i ⁵³	m i ⁵³	414
+307	Xiandao	414	ni³⁵	n i ³⁵	n i ³⁵	414
+308	ProtoBurmish	414	mi³	m i ³	m i ³	414
+670	AchangLongchuan	432	maʔ³¹	m a ʔ ³¹	m a ʔ ³¹	432
+671	Atsi	432	mak²¹	m a k ²¹	m a k ²¹	432
+672	Bola	432	mak³¹	m a k ³¹	m a k ³¹	432
+673	Lashi	432	mak³¹	m a k ³¹	m a k ³¹	432
+674	Maru	432	mak³¹	m a k ³¹	m a k ³¹	432
+675	ProtoBurmish	432	mik⁴	m i k ⁴	m i k ⁴	432
+149	Atsi	433	mjiŋ⁵¹	m j i ŋ ⁵¹	m j i ŋ ⁵¹	433
+150	Bola	433	maŋ⁵⁵	m a ŋ ⁵⁵	m a ŋ ⁵⁵	433
+151	Lashi	433	mjiŋ³¹	m j i ŋ ³¹	m j i ŋ ³¹	433
+152	Maru	433	maŋ³¹	m a ŋ ³¹	m a ŋ ³¹	433
+153	OldBurmese	433	maɲ	m a ɲ	m a ɲ	433
+154	Rangoon	433	tɕʰũ²²	tɕʰ ũ ²²	tɕʰ ũ ²²	433
+155	ProtoBurmish	433	miŋ¹	m i ŋ ¹	m i ŋ ¹	433
+756	AchangLongchuan	458	tʰuŋ³¹	tʰ u ŋ ³¹	tʰ u ŋ ³¹	458
+757	Atsi	458	tʰuŋ²¹	tʰ u ŋ ²¹	tʰ u ŋ ²¹	458
+758	Bola	458	tʰauŋ³⁵	tʰ au ŋ ³⁵	tʰ au ŋ ³⁵	458
+759	Lashi	458	tʰuːŋ⁵⁵	tʰ uː ŋ ⁵⁵	tʰ uː ŋ ⁵⁵	458
+760	Maru	458	tʰauŋ³⁵	tʰ au ŋ ³⁵	tʰ au ŋ ³⁵	458
+761	Rangoon	458	tʰɑ̃u⁵⁵	tʰ ɑ̃u ⁵⁵	tʰ ɑ̃u ⁵⁵	458
+762	Xiandao	458	tʰuŋ³¹	tʰ u ŋ ³¹	tʰ u ŋ ³¹	458
+763	ProtoBurmish	458	tuŋ²	t u ŋ ²	t u ŋ ²	458
+471	AchangLongchuan	463	mau⁵⁵	m au ⁵⁵	m au ⁵⁵	463
+472	Atsi	463	mau⁵¹	m au ⁵¹	m au ⁵¹	463
+473	Bola	463	mau⁵⁵	m au ⁵⁵	m au ⁵⁵	463
+474	Lashi	463	mou³¹	m ou ³¹	m ou ³¹	463
+475	OldBurmese	463	mui̯	m ui̯	m ui̯	463
+476	Rangoon	463	hmo²²	h m o ²²	h m o ²²	463
+477	ProtoBurmish	463	mu¹	m u ¹	m u ¹	463
+434	AchangLongchuan	464	mau³¹	m au ³¹	m au ³¹	464
+435	Atsi	464	mau²¹	m au ²¹	m au ²¹	464
+436	Bola	464	mau³¹	m au ³¹	m au ³¹	464
+437	Lashi	464	mou³³	m ou ³³	m ou ³³	464
+438	Maru	464	muk⁵⁵	m u k ⁵⁵	m u k ⁵⁵	464
+439	OldBurmese	464	mui̯⁵	m ui̯ ⁵	m ui̯ ⁵	464
+440	Rangoon	464	mo⁵⁵	m o ⁵⁵	m o ⁵⁵	464
+441	Xiandao	464	mau³¹	m au ³¹	m au ³¹	464
+442	ProtoBurmish	464	mu²	m u ²	m u ²	464
+163	AchangLongchuan	471	nam³¹	n a m ³¹	n a m ³¹	471
+164	Atsi	471	nam⁵¹	n a m ⁵¹	n a m ⁵¹	471
+165	Lashi	471	naːm³¹	n aː m ³¹	n aː m ³¹	471
+166	OldBurmese	471	nam⁵	n a m ⁵	n a m ⁵	471
+167	Rangoon	471	ȵ̥ĩ⁵⁵	ȵ̥ ĩ ⁵⁵	ȵ̥ ĩ ⁵⁵	471
+168	Xiandao	471	ɲ̊aŋ⁵⁵	ɲ̊ a ŋ ⁵⁵	ɲ̊ a ŋ ⁵⁵	471
+169	ProtoBurmish	471	nam²	n a m ²	n a m ²	471
+53	AchangLongchuan	477	ȵen³¹	ȵ e n ³¹	ȵ e n ³¹	477
+54	Atsi	477	ŋji⁵⁵	ŋ j i ⁵⁵	ŋ j i ⁵⁵	477
+55	Bola	477	nɛʔ³¹	n ɛ ʔ ³¹	n ɛ ʔ ³¹	477
+56	Lashi	477	ŋjei⁵⁵	ŋ j ei ⁵⁵	ŋ j ei ⁵⁵	477
+57	Maru	477	nɛʔ³¹	n ɛ ʔ ³¹	n ɛ ʔ ³¹	477
+58	OldBurmese	477	nap	n a p	n a p	477
+59	Rangoon	477	ne⁵³	n e ⁵³	n e ⁵³	477
+60	Xiandao	477	n̥a³¹	n̥ a ³¹	n̥ a ³¹	477
+61	ProtoBurmish	477	nap⁴	n a p ⁴	n a p ⁴	477
+720	Atsi	487	a⁵⁵	a ⁵⁵	a ⁵⁵	487
+721	Bola	487	nai⁵⁵	n ai ⁵⁵	n ai ⁵⁵	487
+722	Lashi	487	ŋjeːi³¹	ŋ j eːi ³¹	ŋ j eːi ³¹	487
+723	Rangoon	487	ɑ⁵³	ɑ ⁵³	ɑ ⁵³	487
+724	Xiandao	487	nai⁵⁵	n ai ⁵⁵	n ai ⁵⁵	487
+725	ProtoBurmish	487	nai¹	n ai ¹	n ai ¹	487
+527	AchangLongchuan	494	nəŋ³¹	n ə ŋ ³¹	n ə ŋ ³¹	494
+528	OldBurmese	494	naɲ⁵	n a ɲ ⁵	n a ɲ ⁵	494
+529	Rangoon	494	nɛ⁵⁵	n ɛ ⁵⁵	n ɛ ⁵⁵	494
+530	Xiandao	494	nɤŋ³¹	n ɤ ŋ ³¹	n ɤ ŋ ³¹	494
+531	ProtoBurmish	494	niŋ²	n i ŋ ²	n i ŋ ²	494
+838	AchangLongchuan	495	nau³⁵	n au ³⁵	n au ³⁵	495
+839	Atsi	495	nau⁵⁵	n au ⁵⁵	n au ⁵⁵	495
+840	Bola	495	nau³⁵	n au ³⁵	n au ³⁵	495
+841	Lashi	495	nou⁵⁵	n ou ⁵⁵	n ou ⁵⁵	495
+842	Maru	495	nuk³¹	n u k ³¹	n u k ³¹	495
+843	OldBurmese	495	nui̯ʔ	n ui̯ ʔ	n ui̯ ʔ	495
+844	Rangoon	495	no⁵³	n o ⁵³	n o ⁵³	495
+845	Xiandao	495	ɲɔn³⁵	ɲ ɔ n ³⁵	ɲ ɔ n ³⁵	495
+846	ProtoBurmish	495	nu³	n u ³	n u ³	495
+644	Bola	500	pʰa³⁵	pʰ a ³⁵	pʰ a ³⁵	500
+645	Maru	500	pʰɔ⁵⁵	pʰ ɔ ⁵⁵	pʰ ɔ ⁵⁵	500
+646	ProtoBurmish	500	pa³	p a ³	p a ³	500
+827	AchangLongchuan	506	pʰək⁵⁵	pʰ ə k ⁵⁵	pʰ ə k ⁵⁵	506
+828	Atsi	506	pʰek⁵⁵	pʰ e k ⁵⁵	pʰ e k ⁵⁵	506
+829	Bola	506	pʰak⁵⁵	pʰ a k ⁵⁵	pʰ a k ⁵⁵	506
+830	Lashi	506	pʰɔːi³¹	pʰ ɔːi ³¹	pʰ ɔːi ³¹	506
+831	Maru	506	pʰak⁵⁵	pʰ a k ⁵⁵	pʰ a k ⁵⁵	506
+832	Rangoon	506	peʔ⁴	p e ʔ ⁴	p e ʔ ⁴	506
+833	Xiandao	506	pʰi⁵⁵	pʰ i ⁵⁵	pʰ i ⁵⁵	506
+834	ProtoBurmish	506	pik⁴	p i k ⁴	p i k ⁴	506
+803	Bola	508	pʰja⁵⁵	pʰ j a ⁵⁵	pʰ j a ⁵⁵	508
+804	Lashi	508	pʰjɔː³³	pʰ j ɔː ³³	pʰ j ɔː ³³	508
+805	Maru	508	pʰjɔ³¹	pʰ j ɔ ³¹	pʰ j ɔ ³¹	508
+806	ProtoBurmish	508	pja¹	p j a ¹	p j a ¹	508
+361	AchangLongchuan	518	pʰʐo⁵⁵	pʰ ʐ o ⁵⁵	pʰ ʐ o ⁵⁵	518
+362	Atsi	518	pʰju⁵¹	pʰ j u ⁵¹	pʰ j u ⁵¹	518
+363	Lashi	518	pʰjuː³³	pʰ j uː ³³	pʰ j uː ³³	518
+364	Maru	518	pʰju³¹	pʰ j u ³¹	pʰ j u ³¹	518
+365	Rangoon	518	pʰju²²	pʰ j u ²²	pʰ j u ²²	518
+366	Xiandao	518	pʰʐu⁵⁵	pʰ ʐ u ⁵⁵	pʰ ʐ u ⁵⁵	518
+367	ProtoBurmish	518	pro¹	p r o ¹	p r o ¹	518
+234	Atsi	520	pju̱⁵¹	p j u̱ ⁵¹	p j u̱ ⁵¹	520
+235	Lashi	520	pju̱³³	p j u̱ ³³	p j u̱ ³³	520
+236	Maru	520	pju̱³¹	p j u̱ ³¹	p j u̱ ³¹	520
+237	Rangoon	520	pʰju²²	pʰ j u ²²	pʰ j u ²²	520
+238	Xiandao	520	pʰʐu⁵⁵	pʰ ʐ u ⁵⁵	pʰ ʐ u ⁵⁵	520
+239	ProtoBurmish	520	ˀpro¹	ˀp r o ¹	ˀp r o ¹	520
+353	AchangLongchuan	53	pum⁵⁵	p u m ⁵⁵	p u m ⁵⁵	53
+354	Atsi	53	pum⁵¹	p u m ⁵¹	p u m ⁵¹	53
+355	Bola	53	pam⁵⁵	p a m ⁵⁵	p a m ⁵⁵	53
+356	Lashi	53	pɔm³¹	p ɔ m ³¹	p ɔ m ³¹	53
+357	Maru	53	pam³¹	p a m ³¹	p a m ³¹	53
+358	Rangoon	53	põ²²	p õ ²²	p õ ²²	53
+359	Xiandao	53	pum⁵⁵	p u m ⁵⁵	p u m ⁵⁵	53
+360	ProtoBurmish	53	bum¹	b u m ¹	b u m ¹	53
+807	AchangLongchuan	536	sɔʔ⁵⁵	s ɔ ʔ ⁵⁵	s ɔ ʔ ⁵⁵	536
+808	Atsi	536	pan²¹	p a n ²¹	p a n ²¹	536
+809	Bola	536	xaʔ⁵⁵	x a ʔ ⁵⁵	x a ʔ ⁵⁵	536
+810	Lashi	536	ʃɔ̱ʔ⁵⁵	ʃ ɔ̱ ʔ ⁵⁵	ʃ ɔ̱ ʔ ⁵⁵	536
+811	Maru	536	soʔ⁵⁵	s o ʔ ⁵⁵	s o ʔ ⁵⁵	536
+812	Rangoon	536	tθɑ⁵³	t θ ɑ ⁵³	t θ ɑ ⁵³	536
+813	Xiandao	536	sɔʔ⁵⁵	s ɔ ʔ ⁵⁵	s ɔ ʔ ⁵⁵	536
+814	ProtoBurmish	536	ˀsak⁴	ˀs a k ⁴	ˀs a k ⁴	536
+423	Maru	537	xɔʔ⁵⁵	x ɔ ʔ ⁵⁵	x ɔ ʔ ⁵⁵	537
+424	OldBurmese	537	rʰak	rʰ a k	rʰ a k	537
+425	ProtoBurmish	537	ˀrak⁴	ˀr a k ⁴	ˀr a k ⁴	537
+695	AchangLongchuan	541	san³¹	s a n ³¹	s a n ³¹	541
+696	Atsi	541	san²¹	s a n ²¹	s a n ²¹	541
+697	Lashi	541	sa̱ːn⁵⁵	s a̱ː n ⁵⁵	s a̱ː n ⁵⁵	541
+698	Maru	541	səŋ³⁵	s ə ŋ ³⁵	s ə ŋ ³⁵	541
+699	OldBurmese	541	rʊt	r ʊ t	r ʊ t	541
+700	Xiandao	541	san³¹	s a n ³¹	s a n ³¹	541
+701	ProtoBurmish	541	san²	s a n ²	s a n ²	541
+797	Atsi	546	saŋ⁵¹	s a ŋ ⁵¹	s a ŋ ⁵¹	546
+798	Bola	546	sɔ̃⁵⁵	s ɔ̃ ⁵⁵	s ɔ̃ ⁵⁵	546
+799	Lashi	546	sa̱ŋ³³	s a̱ ŋ ³³	s a̱ ŋ ³³	546
+800	Maru	546	sɔ̃³¹	s ɔ̃ ³¹	s ɔ̃ ³¹	546
+801	Xiandao	546	tʃʰoŋ³¹	tʃʰ o ŋ ³¹	tʃʰ o ŋ ³¹	546
+802	ProtoBurmish	546	saŋ¹	s a ŋ ¹	s a ŋ ¹	546
+346	Atsi	565	xu⁵⁵	x u ⁵⁵	x u ⁵⁵	565
+347	Bola	565	sɔ³⁵	s ɔ ³⁵	s ɔ ³⁵	565
+348	Lashi	565	xu⁵⁵	x u ⁵⁵	x u ⁵⁵	565
+349	OldBurmese	565	sʊ⁵	s ʊ ⁵	s ʊ ⁵	565
+350	Rangoon	565	si⁵⁵	s i ⁵⁵	s i ⁵⁵	565
+351	Xiandao	565	so³¹	s o ³¹	s o ³¹	565
+352	ProtoBurmish	565	ʃo²	ʃ o ²	ʃ o ²	565
+443	AchangLongchuan	566	so³¹	s o ³¹	s o ³¹	566
+444	Maru	566	xu³⁵	x u ³⁵	x u ³⁵	566
+445	ProtoBurmish	566	ˀro²	ˀr o ²	ˀr o ²	566
+781	AchangLongchuan	569	sui³¹	s ui ³¹	s ui ³¹	569
+782	Atsi	569	sui²¹	s ui ²¹	s ui ²¹	569
+783	Lashi	569	sui⁵⁵	s ui ⁵⁵	s ui ⁵⁵	569
+784	Maru	569	sa³⁵	s a ³⁵	s a ³⁵	569
+785	OldBurmese	569	suj⁵	s u j ⁵	s u j ⁵	569
+786	Xiandao	569	sui³¹	s ui ³¹	s ui ³¹	569
+787	ProtoBurmish	569	ˀsui²	ˀs ui ²	ˀs ui ²	569
+794	Maru	581	sa̱t⁵⁵	s a̱ t ⁵⁵	s a̱ t ⁵⁵	581
+795	OldBurmese	581	sut	s u t	s u t	581
+796	ProtoBurmish	581	ˀsut⁴	ˀs u t ⁴	ˀs u t ⁴	581
+596	AchangLongchuan	59	tɔʔ⁵⁵	t ɔ ʔ ⁵⁵	t ɔ ʔ ⁵⁵	59
+597	Atsi	59	toʔ²¹	t o ʔ ²¹	t o ʔ ²¹	59
+598	Bola	59	taʔ³¹	t a ʔ ³¹	t a ʔ ³¹	59
+599	Lashi	59	tɔːʔ³¹	t ɔː ʔ ³¹	t ɔː ʔ ³¹	59
+600	Maru	59	tɔʔ³¹	t ɔ ʔ ³¹	t ɔ ʔ ³¹	59
+601	Rangoon	59	tɛʔ⁴	t ɛ ʔ ⁴	t ɛ ʔ ⁴	59
+602	Xiandao	59	tɔʔ⁵⁵	t ɔ ʔ ⁵⁵	t ɔ ʔ ⁵⁵	59
+603	ProtoBurmish	59	dak⁴	d a k ⁴	d a k ⁴	59
+1	AchangLongchuan	595	oi³¹	oi ³¹	oi ³¹	595
+2	Atsi	595	tʰaŋ⁵¹	tʰ a ŋ ⁵¹	tʰ a ŋ ⁵¹	595
+3	Bola	595	tʰɔ̃³⁵	tʰ ɔ̃ ³⁵	tʰ ɔ̃ ³⁵	595
+4	Lashi	595	tʃʰam⁵⁵	tʃʰ a m ⁵⁵	tʃʰ a m ⁵⁵	595
+5	Maru	595	tʰɔ̃⁵⁵	tʰ ɔ̃ ⁵⁵	tʰ ɔ̃ ⁵⁵	595
+6	Rangoon	595	tθɑ̃⁵⁵	t θ ɑ̃ ⁵⁵	t θ ɑ̃ ⁵⁵	595
+7	Xiandao	595	tsɔ³¹	ts ɔ ³¹	ts ɔ ³¹	595
+8	ProtoBurmish	595	taŋ³	t a ŋ ³	t a ŋ ³	595
+788	Atsi	603	tsʰo⁵⁵	tsʰ o ⁵⁵	tsʰ o ⁵⁵	603
+789	Lashi	603	tsʰo⁵⁵	tsʰ o ⁵⁵	tsʰ o ⁵⁵	603
+790	Maru	603	tsʰɔ³⁵	tsʰ ɔ ³⁵	tsʰ ɔ ³⁵	603
+791	Rangoon	603	sʰɑ⁵⁵	sʰ ɑ ⁵⁵	sʰ ɑ ⁵⁵	603
+792	Xiandao	603	tʃʰɔ³¹	tʃʰ ɔ ³¹	tʃʰ ɔ ³¹	603
+793	ProtoBurmish	603	tsa²	ts a ²	ts a ²	603
+676	AchangLongchuan	615	tsʰau³¹	tsʰ au ³¹	tsʰ au ³¹	615
+677	Maru	615	tsu̱k⁵⁵	ts u̱ k ⁵⁵	ts u̱ k ⁵⁵	615
+678	OldBurmese	615	tʃʰui̯⁵	tʃʰ ui̯ ⁵	tʃʰ ui̯ ⁵	615
+679	ProtoBurmish	615	ˀtsu²	ˀts u ²	ˀts u ²	615
+281	AchangLongchuan	635	xau³¹	x au ³¹	x au ³¹	635
+282	Atsi	635	tʃʰoʔ⁵⁵	tʃʰ o ʔ ⁵⁵	tʃʰ o ʔ ⁵⁵	635
+283	Lashi	635	tʃau⁵³	tʃ au ⁵³	tʃ au ⁵³	635
+284	Rangoon	635	tɕʰɛʔ⁴	tɕʰ ɛ ʔ ⁴	tɕʰ ɛ ʔ ⁴	635
+285	Xiandao	635	cɔ⁵⁵	c ɔ ⁵⁵	c ɔ ⁵⁵	635
+286	ProtoBurmish	635	ˀtʃak⁴	ˀtʃ a k ⁴	ˀtʃ a k ⁴	635
+41	Bola	636	tʃʰaʔ⁵⁵	tʃʰ a ʔ ⁵⁵	tʃʰ a ʔ ⁵⁵	636
+42	Maru	636	tʃʰɔʔ⁵⁵	tʃʰ ɔ ʔ ⁵⁵	tʃʰ ɔ ʔ ⁵⁵	636
+43	ProtoBurmish	636	tʃak⁴	tʃ a k ⁴	tʃ a k ⁴	636
+426	AchangLongchuan	642	ʈʂʰaŋ³⁵	ʈʂʰ a ŋ ³⁵	ʈʂʰ a ŋ ³⁵	642
+427	Atsi	642	tʃʰuŋ²¹	tʃʰ u ŋ ²¹	tʃʰ u ŋ ²¹	642
+428	Bola	642	tʃʰɔ̃³⁵	tʃʰ ɔ̃ ³⁵	tʃʰ ɔ̃ ³⁵	642
+429	Lashi	642	tʃʰaːŋ⁵³	tʃʰ aː ŋ ⁵³	tʃʰ aː ŋ ⁵³	642
+430	Maru	642	tʃʰɔ̃⁵⁵	tʃʰ ɔ̃ ⁵⁵	tʃʰ ɔ̃ ⁵⁵	642
+431	Rangoon	642	tɕʰĩ	tɕʰ ĩ	tɕʰ ĩ	642
+432	Xiandao	642	ʈʂʰaŋ³⁵	ʈʂʰ a ŋ ³⁵	ʈʂʰ a ŋ ³⁵	642
+433	ProtoBurmish	642	tʃaŋ³	tʃ a ŋ ³	tʃ a ŋ ³	642
+192	Atsi	646	tʃʰi²¹	tʃʰ i ²¹	tʃʰ i ²¹	646
+193	Bola	646	tʃʰɿ³⁵	tʃʰ ɿ ³⁵	tʃʰ ɿ ³⁵	646
+194	Lashi	646	tʃʰei⁵⁵	tʃʰ ei ⁵⁵	tʃʰ ei ⁵⁵	646
+195	Maru	646	tʃʰik⁵⁵	tʃʰ i k ⁵⁵	tʃʰ i k ⁵⁵	646
+196	Rangoon	646	sʰe⁵⁵	sʰ e ⁵⁵	sʰ e ⁵⁵	646
+197	Xiandao	646	tsʰi³¹	tsʰ i ³¹	tsʰ i ³¹	646
+198	ProtoBurmish	646	tʃi²	tʃ i ²	tʃ i ²	646
+97	Atsi	647	tʃʰi⁵¹	tʃʰ i ⁵¹	tʃʰ i ⁵¹	647
+98	Bola	647	tʃʰi⁵⁵	tʃʰ i ⁵⁵	tʃʰ i ⁵⁵	647
+99	Lashi	647	tsʰe³³	tsʰ e ³³	tsʰ e ³³	647
+100	OldBurmese	647	tʃʰij	tʃʰ i j	tʃʰ i j	647
+101	Rangoon	647	sʰe²²	sʰ e ²²	sʰ e ²²	647
+102	Xiandao	647	sau⁵⁵	s au ⁵⁵	s au ⁵⁵	647
+103	ProtoBurmish	647	tʃi¹	tʃ i ¹	tʃ i ¹	647
+446	AchangLongchuan	656	ɔm³⁵	ɔ m ³⁵	ɔ m ³⁵	656
+447	Bola	656	vɛ̃³⁵	v ɛ̃ ³⁵	v ɛ̃ ³⁵	656
+448	Lashi	656	wuːm⁵⁵	w uː m ⁵⁵	w uː m ⁵⁵	656
+449	Maru	656	vɛ̃⁵⁵	v ɛ̃ ⁵⁵	v ɛ̃ ⁵⁵	656
+450	Xiandao	656	om³⁵	o m ³⁵	o m ³⁵	656
+451	ProtoBurmish	656	wam³	w a m ³	w a m ³	656
+554	AchangLongchuan	664	ɔŋ⁵⁵	ɔ ŋ ⁵⁵	ɔ ŋ ⁵⁵	664
+555	Atsi	664	vaŋ⁵¹	v a ŋ ⁵¹	v a ŋ ⁵¹	664
+556	Bola	664	vɔ̃⁵⁵	v ɔ̃ ⁵⁵	v ɔ̃ ⁵⁵	664
+557	Lashi	664	vaːŋ³¹	v aː ŋ ³¹	v aː ŋ ³¹	664
+558	Maru	664	vɔ̃³¹	v ɔ̃ ³¹	v ɔ̃ ³¹	664
+559	OldBurmese	664	waŋ	w a ŋ	w a ŋ	664
+560	Rangoon	664	wĩ²²	w ĩ ²²	w ĩ ²²	664
+561	Xiandao	664	oŋ⁵⁵	o ŋ ⁵⁵	o ŋ ⁵⁵	664
+562	ProtoBurmish	664	waŋ¹	w a ŋ ¹	w a ŋ ¹	664
+287	Bola	668	ŋai⁵⁵	ŋ ai ⁵⁵	ŋ ai ⁵⁵	668
+288	Lashi	668	ŋɛː³¹	ŋ ɛː ³¹	ŋ ɛː ³¹	668
+289	Maru	668	ŋai³¹	ŋ ai ³¹	ŋ ai ³¹	668
+290	OldBurmese	668	ŋai	ŋ ai	ŋ ai	668
+291	Rangoon	668	ŋɛ²²	ŋ ɛ ²²	ŋ ɛ ²²	668
+292	Xiandao	668	ɲɛ⁵¹	ɲ ɛ ⁵¹	ɲ ɛ ⁵¹	668
+293	ProtoBurmish	668	ŋai¹	ŋ ai ¹	ŋ ai ¹	668
+850	Atsi	680	ŋo̱ʔ⁵⁵	ŋ o̱ ʔ ⁵⁵	ŋ o̱ ʔ ⁵⁵	680
+851	Bola	680	ŋa̱ʔ⁵⁵	ŋ a̱ ʔ ⁵⁵	ŋ a̱ ʔ ⁵⁵	680
+852	Lashi	680	ŋɔ̱ʔ⁵⁵	ŋ ɔ̱ ʔ ⁵⁵	ŋ ɔ̱ ʔ ⁵⁵	680
+853	Maru	680	ŋɔ̱ʔ⁵⁵	ŋ ɔ̱ ʔ ⁵⁵	ŋ ɔ̱ ʔ ⁵⁵	680
+854	OldBurmese	680	ŋʰak	ŋʰ a k	ŋʰ a k	680
+855	Rangoon	680	ŋ̊ɛʔ⁴	ŋ̊ ɛ ʔ ⁴	ŋ̊ ɛ ʔ ⁴	680
+856	Xiandao	680	ŋ̊ɔʔ⁵⁵	ŋ̊ ɔ ʔ ⁵⁵	ŋ̊ ɔ ʔ ⁵⁵	680
+857	ProtoBurmish	680	ˀŋak⁴	ˀŋ a k ⁴	ˀŋ a k ⁴	680
+485	Atsi	686	ŋjap²¹	ŋ j a p ²¹	ŋ j a p ²¹	686
+486	Bola	686	ŋjɛʔ³¹	ŋ j ɛ ʔ ³¹	ŋ j ɛ ʔ ³¹	686
+487	Lashi	686	ŋjap³¹	ŋ j a p ³¹	ŋ j a p ³¹	686
+488	Maru	686	ŋjɛʔ³¹	ŋ j ɛ ʔ ³¹	ŋ j ɛ ʔ ³¹	686
+489	Rangoon	686	hȵɑʔ⁴	h ȵ ɑ ʔ ⁴	h ȵ ɑ ʔ ⁴	686
+490	Xiandao	686	ɲap⁵⁵	ɲ a p ⁵⁵	ɲ a p ⁵⁵	686
+491	ProtoBurmish	686	ŋjat⁴	ŋ j a t ⁴	ŋ j a t ⁴	686
+268	AchangLongchuan	693	ŋau⁵⁵	ŋ au ⁵⁵	ŋ au ⁵⁵	693
+269	Atsi	693	ŋau⁵¹	ŋ au ⁵¹	ŋ au ⁵¹	693
+270	Bola	693	ŋau⁵⁵	ŋ au ⁵⁵	ŋ au ⁵⁵	693
+271	Lashi	693	ŋaːu³¹	ŋ aːu ³¹	ŋ aːu ³¹	693
+272	Maru	693	ŋuk³¹	ŋ u k ³¹	ŋ u k ³¹	693
+273	OldBurmese	693	ŋui̯	ŋ ui̯	ŋ ui̯	693
+274	Rangoon	693	ŋo²²	ŋ o ²²	ŋ o ²²	693
+275	Xiandao	693	ŋau⁵⁵	ŋ au ⁵⁵	ŋ au ⁵⁵	693
+276	ProtoBurmish	693	ŋu¹	ŋ u ¹	ŋ u ¹	693
+414	AchangLongchuan	7	pan³¹	p a n ³¹	p a n ³¹	7
+415	Atsi	7	pan²¹	p a n ²¹	p a n ²¹	7
+416	Bola	7	pɛ̃³¹	p ɛ̃ ³¹	p ɛ̃ ³¹	7
+417	Lashi	7	pan³³	p a n ³³	p a n ³³	7
+418	Maru	7	pəŋ³⁵	p ə ŋ ³⁵	p ə ŋ ³⁵	7
+419	OldBurmese	7	pan⁵	p a n ⁵	p a n ⁵	7
+420	Rangoon	7	pu²²	p u ²²	p u ²²	7
+421	Xiandao	7	pan³¹	p a n ³¹	p a n ³¹	7
+422	ProtoBurmish	7	ban²	b a n ²	b a n ²	7
+9	AchangLongchuan	706	ɕɔ⁵⁵	ɕ ɔ ⁵⁵	ɕ ɔ ⁵⁵	706
+10	Atsi	706	să²¹	s ă ²¹	s ă ²¹	706
+11	Bola	706	ʃa⁵⁵	ʃ a ⁵⁵	ʃ a ⁵⁵	706
+12	Lashi	706	sə̆⁵⁵	s ə̆ ⁵⁵	s ə̆ ⁵⁵	706
+13	Maru	706	ʃɔ³¹	ʃ ɔ ³¹	ʃ ɔ ³¹	706
+14	Rangoon	706	tθɛ⁵⁵	t θ ɛ ⁵⁵	t θ ɛ ⁵⁵	706
+15	Xiandao	706	çɔ⁵⁵	ç ɔ ⁵⁵	ç ɔ ⁵⁵	706
+16	ProtoBurmish	706	ʃa¹	ʃ a ¹	ʃ a ¹	706
+734	Bola	71	jɔ̃⁵⁵	j ɔ̃ ⁵⁵	j ɔ̃ ⁵⁵	71
+735	Maru	71	jɔ̃³¹	j ɔ̃ ³¹	j ɔ̃ ³¹	71
+736	ProtoBurmish	71	jaŋ¹	j a ŋ ¹	j a ŋ ¹	71
+663	AchangLongchuan	713	ʂam⁵⁵	ʂ a m ⁵⁵	ʂ a m ⁵⁵	713
+664	Bola	713	ʃɛ̃⁵⁵	ʃ ɛ̃ ⁵⁵	ʃ ɛ̃ ⁵⁵	713
+665	Maru	713	ʃɛ̃³¹	ʃ ɛ̃ ³¹	ʃ ɛ̃ ³¹	713
+666	ProtoBurmish	713	ʃam¹	ʃ a m ¹	ʃ a m ¹	713
+137	AchangLongchuan	714	ʐit⁵⁵	ʐ i t ⁵⁵	ʐ i t ⁵⁵	714
+138	Atsi	714	u⁵¹	u ⁵¹	u ⁵¹	714
+139	Lashi	714	u̱³³	u̱ ³³	u̱ ³³	714
+140	Maru	714	a̱	a̱	a̱	714
+141	OldBurmese	714	u	u	u	714
+142	Rangoon	714	u²²	u ²²	u ²²	714
+143	Xiandao	714	ʂam⁵⁵	ʂ a m ⁵⁵	ʂ a m ⁵⁵	714
+144	ProtoBurmish	714	ʔʊ¹	ʔ ʊ ¹	ʔ ʊ ¹	714
+107	Atsi	72	vut²¹	v u t ²¹	v u t ²¹	72
+108	Bola	72	tɔ̃³¹	t ɔ̃ ³¹	t ɔ̃ ³¹	72
+109	Lashi	72	juːt³¹	j uː t ³¹	j uː t ³¹	72
+110	Maru	72	tɔ̃³⁵	t ɔ̃ ³⁵	t ɔ̃ ³⁵	72
+111	Rangoon	72	jĩ²²	j ĩ ²²	j ĩ ²²	72
+112	Xiandao	72	ʈʂam⁵⁵	ʈʂ a m ⁵⁵	ʈʂ a m ⁵⁵	72
+113	ProtoBurmish	72	daŋ²	d a ŋ ²	d a ŋ ²	72
+688	Atsi	729	ʃi⁵¹	ʃ i ⁵¹	ʃ i ⁵¹	729
+689	Bola	729	ʃɿ³⁵	ʃ ɿ ³⁵	ʃ ɿ ³⁵	729
+690	Lashi	729	ʃə̱i³³	ʃ ə̱i ³³	ʃ ə̱i ³³	729
+691	Maru	729	ʃi̱k³¹	ʃ i̱ k ³¹	ʃ i̱ k ³¹	729
+692	Rangoon	729	tθe²²	t θ e ²²	t θ e ²²	729
+693	Xiandao	729	ʂɿ⁵⁵	ʂ ɿ ⁵⁵	ʂ ɿ ⁵⁵	729
+694	ProtoBurmish	729	ʃi³	ʃ i ³	ʃ i ³	729
+730	AchangLongchuan	75	təŋ³¹	t ə ŋ ³¹	t ə ŋ ³¹	75
+731	Bola	75	taŋ³¹	t a ŋ ³¹	t a ŋ ³¹	75
+732	Maru	75	taŋ³⁵	t a ŋ ³⁵	t a ŋ ³⁵	75
+733	ProtoBurmish	75	diŋ²	d i ŋ ²	d i ŋ ²	75
+768	Atsi	776	ʃuʔ⁵⁵	ʃ u ʔ ⁵⁵	ʃ u ʔ ⁵⁵	776
+769	Bola	776	ʃauʔ⁵⁵	ʃ au ʔ ⁵⁵	ʃ au ʔ ⁵⁵	776
+770	Lashi	776	ʃuːk⁵⁵	ʃ uː k ⁵⁵	ʃ uː k ⁵⁵	776
+771	Maru	776	ʃauk⁵⁵	ʃ au k ⁵⁵	ʃ au k ⁵⁵	776
+772	Rangoon	776	tθɑuʔ⁴	t θ ɑu ʔ ⁴	t θ ɑu ʔ ⁴	776
+773	Xiandao	776	ʂuʔ⁵⁵	ʂ u ʔ ⁵⁵	ʂ u ʔ ⁵⁵	776
+774	ProtoBurmish	776	ʃuk⁴	ʃ u k ⁴	ʃ u k ⁴	776
+132	Atsi	781	am⁵¹	a m ⁵¹	a m ⁵¹	781
+133	Bola	781	ɛ̃⁵⁵	ɛ̃ ⁵⁵	ɛ̃ ⁵⁵	781
+134	Lashi	781	ŋa̱m³³	ŋ a̱ m ³³	ŋ a̱ m ³³	781
+135	Maru	781	ɛ̃³¹	ɛ̃ ³¹	ɛ̃ ³¹	781
+136	ProtoBurmish	781	ʔam¹	ʔ a m ¹	ʔ a m ¹	781
+30	Atsi	784	jo̱n⁵⁵	j o̱ n ⁵⁵	j o̱ n ⁵⁵	784
+31	Bola	784	ja̱k⁵⁵	j a̱ k ⁵⁵	j a̱ k ⁵⁵	784
+32	Lashi	784	ju̱ːn⁵³	j u̱ː n ⁵³	j u̱ː n ⁵³	784
+33	Maru	784	ja̱k⁵⁵	j a̱ k ⁵⁵	j a̱ k ⁵⁵	784
+34	Rangoon	784	pjɑ̃²²	p j ɑ̃ ²²	p j ɑ̃ ²²	784
+35	ProtoBurmish	784	ˀjik⁴	ˀj i k ⁴	ˀj i k ⁴	784
+815	Atsi	787	ka̱t⁵⁵	k a̱ t ⁵⁵	k a̱ t ⁵⁵	787
+816	Lashi	787	ka̱ːt⁵⁵	k a̱ː t ⁵⁵	k a̱ː t ⁵⁵	787
+817	Rangoon	787	kʰɑʔ⁴	kʰ ɑ ʔ ⁴	kʰ ɑ ʔ ⁴	787
+818	Xiandao	787	xat⁵⁵	x a t ⁵⁵	x a t ⁵⁵	787
+819	ProtoBurmish	787	ˀkat⁴	ˀk a t ⁴	ˀk a t ⁴	787
+460	Atsi	793	kju̱i²¹	k j u̱i ²¹	k j u̱i ²¹	793
+461	Bola	793	kju̱³⁵	k j u̱ ³⁵	k j u̱ ³⁵	793
+462	Lashi	793	kjo̱u⁵⁵	k j o̱u ⁵⁵	k j o̱u ⁵⁵	793
+463	ProtoBurmish	793	ˀkju³	ˀk j u ³	ˀk j u ³	793
+71	AchangLongchuan	797	xʐoʔ⁵⁵	x ʐ o ʔ ⁵⁵	x ʐ o ʔ ⁵⁵	797
+72	Atsi	797	kju̱ʔ⁵⁵	k j u̱ ʔ ⁵⁵	k j u̱ ʔ ⁵⁵	797
+73	Bola	797	kja̱uʔ⁵⁵	k j a̱u ʔ ⁵⁵	k j a̱u ʔ ⁵⁵	797
+74	Lashi	797	kju̱ːk⁵⁵	k j u̱ː k ⁵⁵	k j u̱ː k ⁵⁵	797
+75	Maru	797	kja̱uk⁵⁵	k j a̱u k ⁵⁵	k j a̱u k ⁵⁵	797
+76	OldBurmese	797	kʰrɔk	kʰ r ɔ k	kʰ r ɔ k	797
+77	Rangoon	797	tɕʰɑuʔ⁴	tɕʰ ɑu ʔ ⁴	tɕʰ ɑu ʔ ⁴	797
+78	Xiandao	797	tʃʰuʔ⁵⁵	tʃʰ u ʔ ⁵⁵	tʃʰ u ʔ ⁵⁵	797
+79	ProtoBurmish	797	ˀkruk⁴	ˀk r u k ⁴	ˀk r u k ⁴	797
+36	AchangLongchuan	80	tau³¹	t au ³¹	t au ³¹	80
+37	Bola	80	tau³¹	t au ³¹	t au ³¹	80
+38	Lashi	80	tou³³	t ou ³³	t ou ³³	80
+39	Maru	80	tuk³¹	t u k ³¹	t u k ³¹	80
+40	ProtoBurmish	80	du²	d u ²	d u ²	80
+507	AchangLongchuan	804	ʈʂʰau³¹	ʈʂʰ au ³¹	ʈʂʰ au ³¹	804
+508	Atsi	804	kʰjuŋ²¹	kʰ j u ŋ ²¹	kʰ j u ŋ ²¹	804
+509	Bola	804	kʰjauŋ³⁵	kʰ j au ŋ ³⁵	kʰ j au ŋ ³⁵	804
+510	Lashi	804	kʰjuŋ⁵⁵	kʰ j u ŋ ⁵⁵	kʰ j u ŋ ⁵⁵	804
+511	Rangoon	804	tɕʰɑ̃u⁵⁵	tɕʰ ɑ̃u ⁵⁵	tɕʰ ɑ̃u ⁵⁵	804
+512	Xiandao	804	kʰʐoŋ³¹	kʰ ʐ o ŋ ³¹	kʰ ʐ o ŋ ³¹	804
+513	ProtoBurmish	804	kruŋ²	k r u ŋ ²	k r u ŋ ²	804
+532	AchangLongchuan	811	xau³¹	x au ³¹	x au ³¹	811
+533	Atsi	811	kʰau²¹	kʰ au ²¹	kʰ au ²¹	811
+534	Bola	811	kʰau³¹	kʰ au ³¹	kʰ au ³¹	811
+535	Lashi	811	kʰaːu⁵⁵	kʰ aːu ⁵⁵	kʰ aːu ⁵⁵	811
+536	OldBurmese	811	kʰui̯⁵	kʰ ui̯ ⁵	kʰ ui̯ ⁵	811
+537	Rangoon	811	kʰo⁵⁵	kʰ o ⁵⁵	kʰ o ⁵⁵	811
+538	Xiandao	811	ʈʂʰɔ³¹	ʈʂʰ ɔ ³¹	ʈʂʰ ɔ ³¹	811
+539	ProtoBurmish	811	ˀku²	ˀk u ²	ˀk u ²	811
+570	AchangLongchuan	814	xui³¹	x ui ³¹	x ui ³¹	814
+571	Atsi	814	kʰui²¹	kʰ ui ²¹	kʰ ui ²¹	814
+572	Lashi	814	kʰui⁵⁵	kʰ ui ⁵⁵	kʰ ui ⁵⁵	814
+573	Maru	814	ku̱i³⁵	k u̱i ³⁵	k u̱i ³⁵	814
+574	OldBurmese	814	kʰuj⁵	kʰ u j ⁵	kʰ u j ⁵	814
+575	Rangoon	814	kʰwe⁵⁵	kʰ w e ⁵⁵	kʰ w e ⁵⁵	814
+576	Xiandao	814	fui³¹	f ui ³¹	f ui ³¹	814
+577	ProtoBurmish	814	ˀkui²	ˀk ui ²	ˀk ui ²	814
+177	Bola	821	la̱i³⁵	l a̱i ³⁵	l a̱i ³⁵	821
+178	Maru	821	la̱i⁵⁵	l a̱i ⁵⁵	l a̱i ⁵⁵	821
+179	ProtoBurmish	821	ˀlai³	ˀl ai ³	ˀl ai ³	821
+452	Bola	829	ma̱i⁵⁵	m a̱i ⁵⁵	m a̱i ⁵⁵	829
+453	Maru	829	ma̱i³¹	m a̱i ³¹	m a̱i ³¹	829
+454	ProtoBurmish	829	ˀmai¹	ˀm ai ¹	ˀm ai ¹	829
+48	Atsi	834	ne̱⁵⁵	n e̱ ⁵⁵	n e̱ ⁵⁵	834
+49	Bola	834	na̱i³⁵	n a̱i ³⁵	n a̱i ³⁵	834
+50	Lashi	834	nɛ̱ː⁵⁵	n ɛ̱ː ⁵⁵	n ɛ̱ː ⁵⁵	834
+51	Maru	834	na̱i⁵⁵	n a̱i ⁵⁵	n a̱i ⁵⁵	834
+52	ProtoBurmish	834	ˀnai³	ˀn ai ³	ˀn ai ³	834
+747	AchangLongchuan	835	n̥ap⁵⁵	n̥ a p ⁵⁵	n̥ a p ⁵⁵	835
+748	Atsi	835	na̱p⁵⁵	n a̱ p ⁵⁵	n a̱ p ⁵⁵	835
+749	Bola	835	nɛ̱ʔ⁵⁵	n ɛ̱ ʔ ⁵⁵	n ɛ̱ ʔ ⁵⁵	835
+750	Lashi	835	na̱p⁵⁵	n a̱ p ⁵⁵	n a̱ p ⁵⁵	835
+751	Maru	835	nɛ̱ʔ⁵⁵	n ɛ̱ ʔ ⁵⁵	n ɛ̱ ʔ ⁵⁵	835
+752	OldBurmese	835	nʰap	nʰ a p	nʰ a p	835
+753	Rangoon	835	hnɑʔ⁴	h n ɑ ʔ ⁴	h n ɑ ʔ ⁴	835
+754	Xiandao	835	n̥ap⁵⁵	n̥ a p ⁵⁵	n̥ a p ⁵⁵	835
+755	ProtoBurmish	835	ˀnap⁴	ˀn a p ⁴	ˀn a p ⁴	835
+180	Atsi	837	na̱ŋ⁵¹	n a̱ ŋ ⁵¹	n a̱ ŋ ⁵¹	837
+181	Bola	837	nɔ̱̃⁵⁵	n ɔ̱̃ ⁵⁵	n ɔ̱̃ ⁵⁵	837
+182	Maru	837	nɔ̱̃³¹	n ɔ̱̃ ³¹	n ɔ̱̃ ³¹	837
+183	Xiandao	837	n̥ɔŋ⁵⁵	n̥ ɔ ŋ ⁵⁵	n̥ ɔ ŋ ⁵⁵	837
+184	ProtoBurmish	837	ˀnaŋ¹	ˀn a ŋ ¹	ˀn a ŋ ¹	837
+615	AchangLongchuan	838	n̥ək⁵⁵	n̥ ə k ⁵⁵	n̥ ə k ⁵⁵	838
+616	Atsi	838	jo²¹	j o ²¹	j o ²¹	838
+617	Bola	838	lam³¹	l a m ³¹	l a m ³¹	838
+618	Lashi	838	jɔː³³	j ɔː ³³	j ɔː ³³	838
+619	Maru	838	jo³¹	j o ³¹	j o ³¹	838
+620	OldBurmese	838	nʰac	nʰ a c	nʰ a c	838
+621	Rangoon	838	hniʔ⁴	h n i ʔ ⁴	h n i ʔ ⁴	838
+622	Xiandao	838	n̥ɤk⁵⁵	n̥ ɤ k ⁵⁵	n̥ ɤ k ⁵⁵	838
+623	ProtoBurmish	838	ˀnik⁴	ˀn i k ⁴	ˀn i k ⁴	838
+156	AchangLongchuan	849	pʰat⁵⁵	pʰ a t ⁵⁵	pʰ a t ⁵⁵	849
+157	Atsi	849	pʰat⁵⁵	pʰ a t ⁵⁵	pʰ a t ⁵⁵	849
+158	Lashi	849	pʰaːt⁵⁵	pʰ aː t ⁵⁵	pʰ aː t ⁵⁵	849
+159	OldBurmese	849	pʰat	pʰ a t	pʰ a t	849
+160	Rangoon	849	pʰɑʔ⁴	pʰ ɑ ʔ ⁴	pʰ ɑ ʔ ⁴	849
+161	Xiandao	849	pʰat⁵⁵	pʰ a t ⁵⁵	pʰ a t ⁵⁵	849
+162	ProtoBurmish	849	ˀpat⁴	ˀp a t ⁴	ˀp a t ⁴	849
+610	Atsi	853	pji̱⁵¹	p j i̱ ⁵¹	p j i̱ ⁵¹	853
+611	Bola	853	pi̱⁵⁵	p i̱ ⁵⁵	p i̱ ⁵⁵	853
+612	Lashi	853	pji̱ː³³	p j i̱ː ³³	p j i̱ː ³³	853
+613	OldBurmese	853	pʰi	pʰ i	pʰ i	853
+614	ProtoBurmish	853	ˀpe¹	ˀp e ¹	ˀp e ¹	853
+368	AchangLongchuan	864	pʰʐa³¹	pʰ ʐ a ³¹	pʰ ʐ a ³¹	864
+369	Atsi	864	pje̱²¹	p j e̱ ²¹	p j e̱ ²¹	864
+370	Maru	864	pjɛ̱³⁵	p j ɛ̱ ³⁵	p j ɛ̱ ³⁵	864
+371	Rangoon	864	bi⁵⁵	b i ⁵⁵	b i ⁵⁵	864
+372	Xiandao	864	pʰɛ³¹	pʰ ɛ ³¹	pʰ ɛ ³¹	864
+373	ProtoBurmish	864	ˀprɛ²	ˀp r ɛ ²	ˀp r ɛ ²	864
+246	Atsi	868	xo²¹	x o ²¹	x o ²¹	868
+247	Bola	868	xa³⁵	x a ³⁵	x a ³⁵	868
+248	Lashi	868	ʃɔː⁵⁵	ʃ ɔː ⁵⁵	ʃ ɔː ⁵⁵	868
+249	Maru	868	xɔ³⁵	x ɔ ³⁵	x ɔ ³⁵	868
+250	Xiandao	868	sɔ³¹	s ɔ ³¹	s ɔ ³¹	868
+251	ProtoBurmish	868	ˀra²	ˀr a ²	ˀr a ²	868
+764	Atsi	871	xam⁵¹	x a m ⁵¹	x a m ⁵¹	871
+765	Bola	871	xɛ̃⁵⁵	x ɛ̃ ⁵⁵	x ɛ̃ ⁵⁵	871
+766	Lashi	871	ʃa̱m³³	ʃ a̱ m ³³	ʃ a̱ m ³³	871
+767	ProtoBurmish	871	sam¹	s a m ¹	s a m ¹	871
+492	AchangLongchuan	873	səŋ⁵⁵	s ə ŋ ⁵⁵	s ə ŋ ⁵⁵	873
+493	Atsi	873	xiŋ⁵¹	x i ŋ ⁵¹	x i ŋ ⁵¹	873
+494	Bola	873	xaŋ⁵⁵	x a ŋ ⁵⁵	x a ŋ ⁵⁵	873
+495	Lashi	873	ʃə̱ːŋ³³	ʃ ə̱ː ŋ ³³	ʃ ə̱ː ŋ ³³	873
+496	Maru	873	xaŋ³¹	x a ŋ ³¹	x a ŋ ³¹	873
+497	OldBurmese	873	rʰaɲ	rʰ a ɲ	rʰ a ɲ	873
+498	Xiandao	873	sɤŋ⁵⁵	s ɤ ŋ ⁵⁵	s ɤ ŋ ⁵⁵	873
+499	ProtoBurmish	873	ˀriŋ¹	ˀr i ŋ ¹	ˀr i ŋ ¹	873
+22	AchangLongchuan	877	sa³⁵	s a ³⁵	s a ³⁵	877
+23	Atsi	877	se⁵⁵	s e ⁵⁵	s e ⁵⁵	877
+24	Bola	877	sɛ³⁵	s ɛ ³⁵	s ɛ ³⁵	877
+25	Lashi	877	sɛ̱⁵³	s ɛ̱ ⁵³	s ɛ̱ ⁵³	877
+26	Maru	877	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	877
+27	Rangoon	877	sɑ²²	s ɑ ²²	s ɑ ²²	877
+28	Xiandao	877	sa³⁵	s a ³⁵	s a ³⁵	877
+29	ProtoBurmish	877	sɛ³	s ɛ ³	s ɛ ³	877
+705	AchangLongchuan	878	tʰɔ³¹	tʰ ɔ ³¹	tʰ ɔ ³¹	878
+706	Atsi	878	to̱²¹	t o̱ ²¹	t o̱ ²¹	878
+707	Bola	878	ta̱³¹	t a̱ ³¹	t a̱ ³¹	878
+708	Lashi	878	tɔ⁵⁵	t ɔ ⁵⁵	t ɔ ⁵⁵	878
+709	Maru	878	tɔ̱³⁵	t ɔ̱ ³⁵	t ɔ̱ ³⁵	878
+710	Xiandao	878	tʰɔ³¹	tʰ ɔ ³¹	tʰ ɔ ³¹	878
+711	ProtoBurmish	878	ˀta²	ˀt a ²	ˀt a ²	878
+835	Maru	88	tsɔ³¹	ts ɔ ³¹	ts ɔ ³¹	88
+836	OldBurmese	88	ca	c a	c a	88
+837	ProtoBurmish	88	dza¹	dz a ¹	dz a ¹	88
+593	Bola	892	tʰaŋ³⁵	tʰ a ŋ ³⁵	tʰ a ŋ ³⁵	892
+594	Maru	892	tʰaŋ⁵⁵	tʰ a ŋ ⁵⁵	tʰ a ŋ ⁵⁵	892
+595	ProtoBurmish	892	tiŋ³	t i ŋ ³	t i ŋ ³	892
+455	Atsi	895	tʃa̱p⁵⁵	tʃ a̱ p ⁵⁵	tʃ a̱ p ⁵⁵	895
+456	Lashi	895	tʃa̱p⁵⁵	tʃ a̱ p ⁵⁵	tʃ a̱ p ⁵⁵	895
+457	Rangoon	895	tɕɑʔ⁴	tɕ ɑ ʔ ⁴	tɕ ɑ ʔ ⁴	895
+458	Xiandao	895	ɲ̊ap⁵⁵	ɲ̊ a p ⁵⁵	ɲ̊ a p ⁵⁵	895
+459	ProtoBurmish	895	ˀtʃat⁴	ˀtʃ a t ⁴	ˀtʃ a t ⁴	895
+702	AchangLongchuan	907	tsʰi⁵⁵	tsʰ i ⁵⁵	tsʰ i ⁵⁵	907
+703	OldBurmese	907	tʃʰai	tʃʰ ai	tʃʰ ai	907
+704	ProtoBurmish	907	ˀtsai¹	ˀts ai ¹	ˀts ai ¹	907
+309	AchangLongchuan	920	uŋ³¹	u ŋ ³¹	u ŋ ³¹	920
+310	Atsi	920	uŋ²¹	u ŋ ²¹	u ŋ ²¹	920
+311	Bola	920	auŋ³⁵	au ŋ ³⁵	au ŋ ³⁵	920
+312	Lashi	920	ɔːŋ⁵⁵	ɔː ŋ ⁵⁵	ɔː ŋ ⁵⁵	920
+313	Maru	920	auŋ³⁵	au ŋ ³⁵	au ŋ ³⁵	920
+314	Rangoon	920	jɑ̃u⁵⁵	j ɑ̃u ⁵⁵	j ɑ̃u ⁵⁵	920
+315	Xiandao	920	uŋ³¹	u ŋ ³¹	u ŋ ³¹	920
+316	ProtoBurmish	920	ʔuŋ²	ʔ u ŋ ²	ʔ u ŋ ²	920
+277	Bola	924	ŋa̱⁵⁵	ŋ a̱ ⁵⁵	ŋ a̱ ⁵⁵	924
+278	Maru	924	ŋɔ̱³¹	ŋ ɔ̱ ³¹	ŋ ɔ̱ ³¹	924
+279	Xiandao	924	ɲu⁵⁵	ɲ u ⁵⁵	ɲ u ⁵⁵	924
+280	ProtoBurmish	924	ˀŋa¹	ˀŋ a ¹	ˀŋ a ¹	924
+331	AchangLongchuan	93	tsɔ³¹	ts ɔ ³¹	ts ɔ ³¹	93
+332	Atsi	93	sik⁵⁵	s i k ⁵⁵	s i k ⁵⁵	93
+333	Bola	93	ta³¹	t a ³¹	t a ³¹	93
+334	Lashi	93	ləŋ⁵⁵	l ə ŋ ⁵⁵	l ə ŋ ⁵⁵	93
+335	Maru	93	tsɔ̆³⁵	ts ɔ̆ ³⁵	ts ɔ̆ ³⁵	93
+336	OldBurmese	93	ca⁵	c a ⁵	c a ⁵	93
+337	Rangoon	93	sʰɑ̃⁵⁵	sʰ ɑ̃ ⁵⁵	sʰ ɑ̃ ⁵⁵	93
+338	Xiandao	93	sɔŋ³⁵	s ɔ ŋ ³⁵	s ɔ ŋ ³⁵	93
+339	ProtoBurmish	93	dza²	dz a ²	dz a ²	93
+547	AchangLongchuan	933	ȵ̥au³¹	ȵ̥ au ³¹	ȵ̥ au ³¹	933
+548	Atsi	933	ŋju̱i²¹	ŋ j u̱i ²¹	ŋ j u̱i ²¹	933
+549	Lashi	933	ŋja̱ːu⁵⁵	ŋ j a̱ːu ⁵⁵	ŋ j a̱ːu ⁵⁵	933
+550	OldBurmese	933	ɲʰui̯⁵	ɲʰ ui̯ ⁵	ɲʰ ui̯ ⁵	933
+551	Rangoon	933	nũ⁵⁵	n ũ ⁵⁵	n ũ ⁵⁵	933
+552	Xiandao	933	ɲ̊au³¹	ɲ̊ au ³¹	ɲ̊ au ³¹	933
+553	ProtoBurmish	933	ˀɲu²	ˀɲ u ²	ˀɲ u ²	933
+80	AchangLongchuan	94	ʈʂwa³¹	ʈʂ w a ³¹	ʈʂ w a ³¹	94
+81	Bola	94	tʃa³¹	tʃ a ³¹	tʃ a ³¹	94
+82	ProtoBurmish	94	dʒa²	dʒ a ²	dʒ a ²	94
